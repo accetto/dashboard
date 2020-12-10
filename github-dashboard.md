@@ -6,23 +6,25 @@
 
 [ubuntu-vnc-xfce-g3](https://github.com/accetto/ubuntu-vnc-xfce-g3)
 
+![badge-github-ubuntu-vnc-xfce-g3-open-issues][badge-github-ubuntu-vnc-xfce-g3-open-issues]
 ![badge-github-ubuntu-vnc-xfce-g3-release][badge-github-ubuntu-vnc-xfce-g3-release]
 ![badge-github-ubuntu-vnc-xfce-g3-release-date][badge-github-ubuntu-vnc-xfce-g3-release-date]
 ![badge-github-ubuntu-vnc-xfce-g3-stars][badge-github-ubuntu-vnc-xfce-g3-stars]
 ![badge-github-ubuntu-vnc-xfce-g3-forks][badge-github-ubuntu-vnc-xfce-g3-forks]
-![badge-github-ubuntu-vnc-xfce-g3-open-issues][badge-github-ubuntu-vnc-xfce-g3-open-issues]
 ![badge-github-ubuntu-vnc-xfce-g3-closed-issues][badge-github-ubuntu-vnc-xfce-g3-closed-issues]
 ![badge-github-ubuntu-vnc-xfce-g3-releases][badge-github-ubuntu-vnc-xfce-g3-releases]
 ![badge-github-ubuntu-vnc-xfce-g3-commits][badge-github-ubuntu-vnc-xfce-g3-commits]
 ![badge-github-ubuntu-vnc-xfce-g3-last-commit][badge-github-ubuntu-vnc-xfce-g3-last-commit]
+![badge-github-workflow-dockerhub-autobuild][badge-github-workflow-dockerhub-autobuild]
+![badge-github-workflow-dockerhub-post-push][badge-github-workflow-dockerhub-post-push]
 
 [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc)
 
+![badge-github-xubuntu-vnc-open-issues][badge-github-xubuntu-vnc-open-issues]
 ![badge-github-xubuntu-vnc-release][badge-github-xubuntu-vnc-release]
 ![badge-github-xubuntu-vnc-release-date][badge-github-xubuntu-vnc-release-date]
 ![badge-github-xubuntu-vnc-stars][badge-github-xubuntu-vnc-stars]
 ![badge-github-xubuntu-vnc-forks][badge-github-xubuntu-vnc-forks]
-![badge-github-xubuntu-vnc-open-issues][badge-github-xubuntu-vnc-open-issues]
 ![badge-github-xubuntu-vnc-closed-issues][badge-github-xubuntu-vnc-closed-issues]
 ![badge-github-xubuntu-vnc-releases][badge-github-xubuntu-vnc-releases]
 ![badge-github-xubuntu-vnc-commits][badge-github-xubuntu-vnc-commits]
@@ -30,11 +32,11 @@
 
 [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc)
 
+![badge-github-xubuntu-vnc-novnc-open-issues][badge-github-xubuntu-vnc-novnc-open-issues]
 ![badge-github-xubuntu-vnc-novnc-release][badge-github-xubuntu-vnc-novnc-release]
 ![badge-github-xubuntu-vnc-novnc-release-date][badge-github-xubuntu-vnc-novnc-release-date]
 ![badge-github-xubuntu-vnc-novnc-stars][badge-github-xubuntu-vnc-novnc-stars]
 ![badge-github-xubuntu-vnc-novnc-forks][badge-github-xubuntu-vnc-novnc-forks]
-![badge-github-xubuntu-vnc-novnc-open-issues][badge-github-xubuntu-vnc-novnc-open-issues]
 ![badge-github-xubuntu-vnc-novnc-closed-issues][badge-github-xubuntu-vnc-novnc-closed-issues]
 ![badge-github-xubuntu-vnc-novnc-releases][badge-github-xubuntu-vnc-novnc-releases]
 ![badge-github-xubuntu-vnc-novnc-commits][badge-github-xubuntu-vnc-novnc-commits]
@@ -42,11 +44,11 @@
 
 [ubuntu-vnc-xfce](https://github.com/accetto/ubuntu-vnc-xfce)
 
+![badge-github-ubuntu-vnc-xfce-open-issues][badge-github-ubuntu-vnc-xfce-open-issues]
 ![badge-github-ubuntu-vnc-xfce-release][badge-github-ubuntu-vnc-xfce-release]
 ![badge-github-ubuntu-vnc-xfce-release-date][badge-github-ubuntu-vnc-xfce-release-date]
 ![badge-github-ubuntu-vnc-xfce-stars][badge-github-ubuntu-vnc-xfce-stars]
 ![badge-github-ubuntu-vnc-xfce-forks][badge-github-ubuntu-vnc-xfce-forks]
-![badge-github-ubuntu-vnc-xfce-open-issues][badge-github-ubuntu-vnc-xfce-open-issues]
 ![badge-github-ubuntu-vnc-xfce-closed-issues][badge-github-ubuntu-vnc-xfce-closed-issues]
 ![badge-github-ubuntu-vnc-xfce-releases][badge-github-ubuntu-vnc-xfce-releases]
 ![badge-github-ubuntu-vnc-xfce-commits][badge-github-ubuntu-vnc-xfce-commits]
@@ -54,11 +56,11 @@
 
 [ubuntu-vnc-xfce-firefox](https://github.com/accetto/ubuntu-vnc-xfce-firefox)
 
+![badge-github-ubuntu-vnc-xfce-firefox-open-issues][badge-github-ubuntu-vnc-xfce-firefox-open-issues]
 ![badge-github-ubuntu-vnc-xfce-firefox-release][badge-github-ubuntu-vnc-xfce-firefox-release]
 ![badge-github-ubuntu-vnc-xfce-firefox-release-date][badge-github-ubuntu-vnc-xfce-firefox-release-date]
 ![badge-github-ubuntu-vnc-xfce-firefox-stars][badge-github-ubuntu-vnc-xfce-firefox-stars]
 ![badge-github-ubuntu-vnc-xfce-firefox-forks][badge-github-ubuntu-vnc-xfce-firefox-forks]
-![badge-github-ubuntu-vnc-xfce-firefox-open-issues][badge-github-ubuntu-vnc-xfce-firefox-open-issues]
 ![badge-github-ubuntu-vnc-xfce-firefox-closed-issues][badge-github-ubuntu-vnc-xfce-firefox-closed-issues]
 ![badge-github-ubuntu-vnc-xfce-firefox-releases][badge-github-ubuntu-vnc-xfce-firefox-releases]
 ![badge-github-ubuntu-vnc-xfce-firefox-commits][badge-github-ubuntu-vnc-xfce-firefox-commits]
@@ -66,11 +68,11 @@
 
 [ubuntu-vnc-xfce-firefox-plus](https://github.com/accetto/ubuntu-vnc-xfce-firefox-plus)
 
+![badge-github-ubuntu-vnc-xfce-firefox-plus-open-issues][badge-github-ubuntu-vnc-xfce-firefox-plus-open-issues]
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-release][badge-github-ubuntu-vnc-xfce-firefox-plus-release]
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-release-date][badge-github-ubuntu-vnc-xfce-firefox-plus-release-date]
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-stars][badge-github-ubuntu-vnc-xfce-firefox-plus-stars]
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-forks][badge-github-ubuntu-vnc-xfce-firefox-plus-forks]
-![badge-github-ubuntu-vnc-xfce-firefox-plus-open-issues][badge-github-ubuntu-vnc-xfce-firefox-plus-open-issues]
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-closed-issues][badge-github-ubuntu-vnc-xfce-firefox-plus-closed-issues]
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-releases][badge-github-ubuntu-vnc-xfce-firefox-plus-releases]
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-commits][badge-github-ubuntu-vnc-xfce-firefox-plus-commits]
@@ -78,11 +80,11 @@
 
 [ubuntu-vnc-xfce-firefox-chromium](https://github.com/accetto/ubuntu-vnc-xfce-chromium)
 
+![badge-github-ubuntu-vnc-xfce-chromium-open-issues][badge-github-ubuntu-vnc-xfce-chromium-open-issues]
 ![badge-github-ubuntu-vnc-xfce-chromium-release][badge-github-ubuntu-vnc-xfce-chromium-release]
 ![badge-github-ubuntu-vnc-xfce-chromium-release-date][badge-github-ubuntu-vnc-xfce-chromium-release-date]
 ![badge-github-ubuntu-vnc-xfce-chromium-stars][badge-github-ubuntu-vnc-xfce-chromium-stars]
 ![badge-github-ubuntu-vnc-xfce-chromium-forks][badge-github-ubuntu-vnc-xfce-chromium-forks]
-![badge-github-ubuntu-vnc-xfce-chromium-open-issues][badge-github-ubuntu-vnc-xfce-chromium-open-issues]
 ![badge-github-ubuntu-vnc-xfce-chromium-closed-issues][badge-github-ubuntu-vnc-xfce-chromium-closed-issues]
 ![badge-github-ubuntu-vnc-xfce-chromium-releases][badge-github-ubuntu-vnc-xfce-chromium-releases]
 ![badge-github-ubuntu-vnc-xfce-chromium-commits][badge-github-ubuntu-vnc-xfce-chromium-commits]
@@ -90,11 +92,11 @@
 
 [argbash-docker](https://github.com/accetto/argbash-docker)
 
+![badge-github-argbash-docker-open-issues][badge-github-argbash-docker-open-issues]
 ![badge-github-argbash-docker-release][badge-github-argbash-docker-release]
 ![badge-github-argbash-docker-release-date][badge-github-argbash-docker-release-date]
 ![badge-github-argbash-docker-stars][badge-github-argbash-docker-stars]
 ![badge-github-argbash-docker-forks][badge-github-argbash-docker-forks]
-![badge-github-argbash-docker-open-issues][badge-github-argbash-docker-open-issues]
 ![badge-github-argbash-docker-closed-issues][badge-github-argbash-docker-closed-issues]
 ![badge-github-argbash-docker-releases][badge-github-argbash-docker-releases]
 ![badge-github-argbash-docker-commits][badge-github-argbash-docker-commits]
@@ -102,11 +104,11 @@
 
 [hello-there](https://github.com/accetto/hello-there)
 
+![badge-github-hello-there-open-issues][badge-github-hello-there-open-issues]
 ![badge-github-hello-there-release][badge-github-hello-there-release]
 ![badge-github-hello-there-release-date][badge-github-hello-there-release-date]
 ![badge-github-hello-there-stars][badge-github-hello-there-stars]
 ![badge-github-hello-there-forks][badge-github-hello-there-forks]
-![badge-github-hello-there-open-issues][badge-github-hello-there-open-issues]
 ![badge-github-hello-there-closed-issues][badge-github-hello-there-closed-issues]
 ![badge-github-hello-there-releases][badge-github-hello-there-releases]
 ![badge-github-hello-there-commits][badge-github-hello-there-commits]
@@ -114,11 +116,11 @@
 
 [dev-base](https://github.com/accetto/dev-base)
 
+![badge-github-dev-base-open-issues][badge-github-dev-base-open-issues]
 ![badge-github-dev-base-release][badge-github-dev-base-release]
 ![badge-github-dev-base-release-date][badge-github-dev-base-release-date]
 ![badge-github-dev-base-stars][badge-github-dev-base-stars]
 ![badge-github-dev-base-forks][badge-github-dev-base-forks]
-![badge-github-dev-base-open-issues][badge-github-dev-base-open-issues]
 ![badge-github-dev-base-closed-issues][badge-github-dev-base-closed-issues]
 ![badge-github-dev-base-releases][badge-github-dev-base-releases]
 ![badge-github-dev-base-commits][badge-github-dev-base-commits]
@@ -145,6 +147,10 @@
 [badge-github-ubuntu-vnc-xfce-g3-closed-issues]: https://badgen.net/github/closed-issues/accetto/ubuntu-vnc-xfce-g3?icon=github&label=closed%20issues
 
 [badge-github-ubuntu-vnc-xfce-g3-open-issues]: https://badgen.net/github/open-issues/accetto/ubuntu-vnc-xfce-g3?icon=github&label=open%20issues
+
+[badge-github-workflow-dockerhub-autobuild]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-autobuild/badge.svg
+
+[badge-github-workflow-dockerhub-post-push]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-post-push/badge.svg
 
 <!-- github badges xubuntu-vnc -->
 
