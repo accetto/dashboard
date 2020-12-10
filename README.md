@@ -1,4 +1,4 @@
-# dashboard
+# accetto/dashboard
 
 Dashboard for personal developer use.
 
