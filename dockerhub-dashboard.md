@@ -20,6 +20,7 @@
 | [xubuntu-vnc-gimp](https://hub.docker.com/r/accetto/xubuntu-vnc-gimp)                                 | ![badge-docker-xubuntu-vnc-gimp-pulls][badge-docker-xubuntu-vnc-gimp-pulls]                                 | ![badge-docker-xubuntu-vnc-gimp-stars][badge-docker-xubuntu-vnc-gimp-stars]                                 |
 | [xubuntu-vnc-drawio](https://hub.docker.com/r/accetto/xubuntu-vnc-drawio)                             | ![badge-docker-xubuntu-vnc-drawio-pulls][badge-docker-xubuntu-vnc-drawio-pulls]                             | ![badge-docker-xubuntu-vnc-drawio-stars][badge-docker-xubuntu-vnc-drawio-stars]                             |
 | [xubuntu-vnc-novnc](https://hub.docker.com/r/accetto/xubuntu-vnc-novnc)                               | ![badge-docker-xubuntu-vnc-novnc-pulls][badge-docker-xubuntu-vnc-novnc-pulls]                               | ![badge-docker-xubuntu-vnc-novnc-stars][badge-docker-xubuntu-vnc-novnc-stars]                               |
+| [xubuntu-vnc-novnc-chrome](https://hub.docker.com/r/accetto/xubuntu-vnc-novnc-chrome)                 | ![badge-docker-xubuntu-vnc-novnc-chrome-pulls][badge-docker-xubuntu-vnc-novnc-chrome-pulls]                 | ![badge-docker-xubuntu-vnc-novnc-chrome-stars][badge-docker-xubuntu-vnc-novnc-chrome-stars]                 |
 | [xubuntu-vnc-novnc-chromium](https://hub.docker.com/r/accetto/xubuntu-vnc-novnc-chromium)             | ![badge-docker-xubuntu-vnc-novnc-chromium-pulls][badge-docker-xubuntu-vnc-novnc-chromium-pulls]             | ![badge-docker-xubuntu-vnc-novnc-chromium-stars][badge-docker-xubuntu-vnc-novnc-chromium-stars]             |
 | [xubuntu-vnc-novnc-firefox](https://hub.docker.com/r/accetto/xubuntu-vnc-novnc-firefox)               | ![badge-docker-xubuntu-vnc-novnc-firefox-pulls][badge-docker-xubuntu-vnc-novnc-firefox-pulls]               | ![badge-docker-xubuntu-vnc-novnc-firefox-stars][badge-docker-xubuntu-vnc-novnc-firefox-stars]               |
 | [ubuntu-vnc-xfce](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce)                                   | ![badge-docker-ubuntu-vnc-xfce-pulls][badge-docker-ubuntu-vnc-xfce-pulls]                                   | ![badge-docker-ubuntu-vnc-xfce-stars][badge-docker-ubuntu-vnc-xfce-stars]                                   |
@@ -115,6 +116,12 @@
 [badge-docker-xubuntu-vnc-novnc-pulls]: https://badgen.net/docker/pulls/accetto/xubuntu-vnc-novnc?icon=docker&label=pulls
 
 [badge-docker-xubuntu-vnc-novnc-stars]: https://badgen.net/docker/stars/accetto/xubuntu-vnc-novnc?icon=docker&label=stars
+
+<!-- docker badges xubuntu-vnc-novnc-chrome -->
+
+[badge-docker-xubuntu-vnc-novnc-chrome-pulls]: https://badgen.net/docker/pulls/accetto/xubuntu-vnc-novnc-chrome?icon=docker&label=pulls
+
+[badge-docker-xubuntu-vnc-novnc-chrome-stars]: https://badgen.net/docker/stars/accetto/xubuntu-vnc-novnc-chrome?icon=docker&label=stars
 
 <!-- docker badges xubuntu-vnc-novnc-chromium -->
 
