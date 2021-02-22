@@ -78,7 +78,7 @@
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-commits][badge-github-ubuntu-vnc-xfce-firefox-plus-commits]
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-last-commit][badge-github-ubuntu-vnc-xfce-firefox-plus-last-commit]
 
-[ubuntu-vnc-xfce-firefox-chromium](https://github.com/accetto/ubuntu-vnc-xfce-chromium)
+[ubuntu-vnc-xfce-chromium](https://github.com/accetto/ubuntu-vnc-xfce-chromium)
 
 ![badge-github-ubuntu-vnc-xfce-chromium-open-issues][badge-github-ubuntu-vnc-xfce-chromium-open-issues]
 ![badge-github-ubuntu-vnc-xfce-chromium-release][badge-github-ubuntu-vnc-xfce-chromium-release]
