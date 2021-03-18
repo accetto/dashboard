@@ -6,12 +6,12 @@
 
 | Repository                                                                                            | Pulls                                                                                                       | Stars                                                                                                       |
 | :---------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
-| [ubuntu-vnc-xfce-drawio-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-drawio-g3)               | ![badge-docker-ubuntu-vnc-xfce-drawio-g3-pulls][badge-docker-ubuntu-vnc-xfce-drawio-g3-pulls]               | ![badge-docker-ubuntu-vnc-xfce-drawio-g3-stars][badge-docker-ubuntu-vnc-xfce-drawio-g3-stars]               |
-| [ubuntu-vnc-xfce-gimp-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-gimp-g3)                   | ![badge-docker-ubuntu-vnc-xfce-gimp-g3-pulls][badge-docker-ubuntu-vnc-xfce-gimp-g3-pulls]                   | ![badge-docker-ubuntu-vnc-xfce-gimp-g3-stars][badge-docker-ubuntu-vnc-xfce-gimp-g3-stars]                   |
-| [ubuntu-vnc-xfce-inkscape-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-inkscape-g3)           | ![badge-docker-ubuntu-vnc-xfce-inkscape-g3-pulls][badge-docker-ubuntu-vnc-xfce-inkscape-g3-pulls]           | ![badge-docker-ubuntu-vnc-xfce-inkscape-g3-stars][badge-docker-ubuntu-vnc-xfce-inkscape-g3-stars]           |
 | [ubuntu-vnc-xfce-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-g3)                             | ![badge-docker-ubuntu-vnc-xfce-g3-pulls][badge-docker-ubuntu-vnc-xfce-g3-pulls]                             | ![badge-docker-ubuntu-vnc-xfce-g3-stars][badge-docker-ubuntu-vnc-xfce-g3-stars]                             |
 | [ubuntu-vnc-xfce-chromium-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-chromium-g3)           | ![badge-docker-ubuntu-vnc-xfce-chromium-g3-pulls][badge-docker-ubuntu-vnc-xfce-chromium-g3-pulls]           | ![badge-docker-ubuntu-vnc-xfce-chromium-g3-stars][badge-docker-ubuntu-vnc-xfce-chromium-g3-stars]           |
 | [ubuntu-vnc-xfce-firefox-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-firefox-g3)             | ![badge-docker-ubuntu-vnc-xfce-firefox-g3-pulls][badge-docker-ubuntu-vnc-xfce-firefox-g3-pulls]             | ![badge-docker-ubuntu-vnc-xfce-firefox-g3-stars][badge-docker-ubuntu-vnc-xfce-firefox-g3-stars]             |
+| [ubuntu-vnc-xfce-drawio-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-drawio-g3)               | ![badge-docker-ubuntu-vnc-xfce-drawio-g3-pulls][badge-docker-ubuntu-vnc-xfce-drawio-g3-pulls]               | ![badge-docker-ubuntu-vnc-xfce-drawio-g3-stars][badge-docker-ubuntu-vnc-xfce-drawio-g3-stars]               |
+| [ubuntu-vnc-xfce-gimp-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-gimp-g3)                   | ![badge-docker-ubuntu-vnc-xfce-gimp-g3-pulls][badge-docker-ubuntu-vnc-xfce-gimp-g3-pulls]                   | ![badge-docker-ubuntu-vnc-xfce-gimp-g3-stars][badge-docker-ubuntu-vnc-xfce-gimp-g3-stars]                   |
+| [ubuntu-vnc-xfce-inkscape-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-inkscape-g3)           | ![badge-docker-ubuntu-vnc-xfce-inkscape-g3-pulls][badge-docker-ubuntu-vnc-xfce-inkscape-g3-pulls]           | ![badge-docker-ubuntu-vnc-xfce-inkscape-g3-stars][badge-docker-ubuntu-vnc-xfce-inkscape-g3-stars]           |
 | [xubuntu-vnc](https://hub.docker.com/r/accetto/xubuntu-vnc)                                           | ![badge-docker-xubuntu-vnc-pulls][badge-docker-xubuntu-vnc-pulls]                                           | ![badge-docker-xubuntu-vnc-stars][badge-docker-xubuntu-vnc-stars]                                           |
 | [xubuntu-vnc-chromium](https://hub.docker.com/r/accetto/xubuntu-vnc-chromium)                         | ![badge-docker-xubuntu-vnc-chromium-pulls][badge-docker-xubuntu-vnc-chromium-pulls]                         | ![badge-docker-xubuntu-vnc-chromium-stars][badge-docker-xubuntu-vnc-chromium-stars]                         |
 | [xubuntu-vnc-firefox](https://hub.docker.com/r/accetto/xubuntu-vnc-firefox)                           | ![badge-docker-xubuntu-vnc-firefox-pulls][badge-docker-xubuntu-vnc-firefox-pulls]                           | ![badge-docker-xubuntu-vnc-firefox-stars][badge-docker-xubuntu-vnc-firefox-stars]                           |
@@ -36,24 +36,6 @@
 
 ***
 
-<!-- docker badges ubuntu-vnc-xfce-drawio-g3 -->
-
-[badge-docker-ubuntu-vnc-xfce-drawio-g3-pulls]: https://badgen.net/docker/pulls/accetto/ubuntu-vnc-xfce-drawio-g3?icon=docker&label=pulls
-
-[badge-docker-ubuntu-vnc-xfce-drawio-g3-stars]: https://badgen.net/docker/stars/accetto/ubuntu-vnc-xfce-drawio-g3?icon=docker&label=stars
-
-<!-- docker badges ubuntu-vnc-xfce-gimp-g3 -->
-
-[badge-docker-ubuntu-vnc-xfce-gimp-g3-pulls]: https://badgen.net/docker/pulls/accetto/ubuntu-vnc-xfce-gimp-g3?icon=docker&label=pulls
-
-[badge-docker-ubuntu-vnc-xfce-gimp-g3-stars]: https://badgen.net/docker/stars/accetto/ubuntu-vnc-xfce-gimp-g3?icon=docker&label=stars
-
-<!-- docker badges ubuntu-vnc-xfce-inkscape-g3 -->
-
-[badge-docker-ubuntu-vnc-xfce-inkscape-g3-pulls]: https://badgen.net/docker/pulls/accetto/ubuntu-vnc-xfce-inkscape-g3?icon=docker&label=pulls
-
-[badge-docker-ubuntu-vnc-xfce-inkscape-g3-stars]: https://badgen.net/docker/stars/accetto/ubuntu-vnc-xfce-inkscape-g3?icon=docker&label=stars
-
 <!-- docker badges ubuntu-vnc-xfce-g3 -->
 
 [badge-docker-ubuntu-vnc-xfce-g3-pulls]: https://badgen.net/docker/pulls/accetto/ubuntu-vnc-xfce-g3?icon=docker&label=pulls
@@ -71,6 +53,24 @@
 [badge-docker-ubuntu-vnc-xfce-firefox-g3-pulls]: https://badgen.net/docker/pulls/accetto/ubuntu-vnc-xfce-firefox-g3?icon=docker&label=pulls
 
 [badge-docker-ubuntu-vnc-xfce-firefox-g3-stars]: https://badgen.net/docker/stars/accetto/ubuntu-vnc-xfce-firefox-g3?icon=docker&label=stars
+
+<!-- docker badges ubuntu-vnc-xfce-drawio-g3 -->
+
+[badge-docker-ubuntu-vnc-xfce-drawio-g3-pulls]: https://badgen.net/docker/pulls/accetto/ubuntu-vnc-xfce-drawio-g3?icon=docker&label=pulls
+
+[badge-docker-ubuntu-vnc-xfce-drawio-g3-stars]: https://badgen.net/docker/stars/accetto/ubuntu-vnc-xfce-drawio-g3?icon=docker&label=stars
+
+<!-- docker badges ubuntu-vnc-xfce-gimp-g3 -->
+
+[badge-docker-ubuntu-vnc-xfce-gimp-g3-pulls]: https://badgen.net/docker/pulls/accetto/ubuntu-vnc-xfce-gimp-g3?icon=docker&label=pulls
+
+[badge-docker-ubuntu-vnc-xfce-gimp-g3-stars]: https://badgen.net/docker/stars/accetto/ubuntu-vnc-xfce-gimp-g3?icon=docker&label=stars
+
+<!-- docker badges ubuntu-vnc-xfce-inkscape-g3 -->
+
+[badge-docker-ubuntu-vnc-xfce-inkscape-g3-pulls]: https://badgen.net/docker/pulls/accetto/ubuntu-vnc-xfce-inkscape-g3?icon=docker&label=pulls
+
+[badge-docker-ubuntu-vnc-xfce-inkscape-g3-stars]: https://badgen.net/docker/stars/accetto/ubuntu-vnc-xfce-inkscape-g3?icon=docker&label=stars
 
 <!-- docker badges xubuntu-vnc -->
 

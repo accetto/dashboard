@@ -4,20 +4,6 @@
 
 ***
 
-[headless-drawing-g3](https://github.com/accetto/headless-drawing-g3)
-
-![badge-github-headless-drawing-g3-open-issues][badge-github-headless-drawing-g3-open-issues]
-![badge-github-headless-drawing-g3-release][badge-github-headless-drawing-g3-release]
-![badge-github-headless-drawing-g3-release-date][badge-github-headless-drawing-g3-release-date]
-![badge-github-headless-drawing-g3-stars][badge-github-headless-drawing-g3-stars]
-![badge-github-headless-drawing-g3-forks][badge-github-headless-drawing-g3-forks]
-![badge-github-headless-drawing-g3-closed-issues][badge-github-headless-drawing-g3-closed-issues]
-![badge-github-headless-drawing-g3-releases][badge-github-headless-drawing-g3-releases]
-![badge-github-headless-drawing-g3-commits][badge-github-headless-drawing-g3-commits]
-![badge-github-headless-drawing-g3-last-commit][badge-github-headless-drawing-g3-last-commit]
-![badge-github-workflow-dockerhub-autobuild][badge-github-workflow-dockerhub-autobuild]
-![badge-github-workflow-dockerhub-post-push][badge-github-workflow-dockerhub-post-push]
-
 [ubuntu-vnc-xfce-g3](https://github.com/accetto/ubuntu-vnc-xfce-g3)
 
 ![badge-github-ubuntu-vnc-xfce-g3-open-issues][badge-github-ubuntu-vnc-xfce-g3-open-issues]
@@ -29,6 +15,20 @@
 ![badge-github-ubuntu-vnc-xfce-g3-releases][badge-github-ubuntu-vnc-xfce-g3-releases]
 ![badge-github-ubuntu-vnc-xfce-g3-commits][badge-github-ubuntu-vnc-xfce-g3-commits]
 ![badge-github-ubuntu-vnc-xfce-g3-last-commit][badge-github-ubuntu-vnc-xfce-g3-last-commit]
+![badge-github-workflow-dockerhub-autobuild][badge-github-workflow-dockerhub-autobuild]
+![badge-github-workflow-dockerhub-post-push][badge-github-workflow-dockerhub-post-push]
+
+[headless-drawing-g3](https://github.com/accetto/headless-drawing-g3)
+
+![badge-github-headless-drawing-g3-open-issues][badge-github-headless-drawing-g3-open-issues]
+![badge-github-headless-drawing-g3-release][badge-github-headless-drawing-g3-release]
+![badge-github-headless-drawing-g3-release-date][badge-github-headless-drawing-g3-release-date]
+![badge-github-headless-drawing-g3-stars][badge-github-headless-drawing-g3-stars]
+![badge-github-headless-drawing-g3-forks][badge-github-headless-drawing-g3-forks]
+![badge-github-headless-drawing-g3-closed-issues][badge-github-headless-drawing-g3-closed-issues]
+![badge-github-headless-drawing-g3-releases][badge-github-headless-drawing-g3-releases]
+![badge-github-headless-drawing-g3-commits][badge-github-headless-drawing-g3-commits]
+![badge-github-headless-drawing-g3-last-commit][badge-github-headless-drawing-g3-last-commit]
 ![badge-github-workflow-dockerhub-autobuild][badge-github-workflow-dockerhub-autobuild]
 ![badge-github-workflow-dockerhub-post-push][badge-github-workflow-dockerhub-post-push]
 
@@ -142,30 +142,6 @@
 
 ***
 
-<!-- github badges headless-drawing-g3 -->
-
-[badge-github-headless-drawing-g3-release]: https://badgen.net/github/release/accetto/headless-drawing-g3?icon=github&label=release
-
-[badge-github-headless-drawing-g3-release-date]: https://img.shields.io/github/release-date/accetto/headless-drawing-g3?logo=github
-
-[badge-github-headless-drawing-g3-stars]: https://badgen.net/github/stars/accetto/headless-drawing-g3?icon=github&label=stars
-
-[badge-github-headless-drawing-g3-forks]: https://badgen.net/github/forks/accetto/headless-drawing-g3?icon=github&label=forks
-
-[badge-github-headless-drawing-g3-releases]: https://badgen.net/github/releases/accetto/headless-drawing-g3?icon=github&label=releases
-
-[badge-github-headless-drawing-g3-commits]: https://badgen.net/github/commits/accetto/headless-drawing-g3?icon=github&label=commits
-
-[badge-github-headless-drawing-g3-last-commit]: https://badgen.net/github/last-commit/accetto/headless-drawing-g3?icon=github&label=last%20commit
-
-[badge-github-headless-drawing-g3-closed-issues]: https://badgen.net/github/closed-issues/accetto/headless-drawing-g3?icon=github&label=closed%20issues
-
-[badge-github-headless-drawing-g3-open-issues]: https://badgen.net/github/open-issues/accetto/headless-drawing-g3?icon=github&label=open%20issues
-
-[badge-github-workflow-dockerhub-autobuild]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-autobuild/badge.svg
-
-[badge-github-workflow-dockerhub-post-push]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-post-push/badge.svg
-
 <!-- github badges ubuntu-vnc-xfce-g3 -->
 
 [badge-github-ubuntu-vnc-xfce-g3-release]: https://badgen.net/github/release/accetto/ubuntu-vnc-xfce-g3?icon=github&label=release
@@ -189,6 +165,30 @@
 [badge-github-workflow-dockerhub-autobuild]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-autobuild/badge.svg
 
 [badge-github-workflow-dockerhub-post-push]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-post-push/badge.svg
+
+<!-- github badges headless-drawing-g3 -->
+
+[badge-github-headless-drawing-g3-release]: https://badgen.net/github/release/accetto/headless-drawing-g3?icon=github&label=release
+
+[badge-github-headless-drawing-g3-release-date]: https://img.shields.io/github/release-date/accetto/headless-drawing-g3?logo=github
+
+[badge-github-headless-drawing-g3-stars]: https://badgen.net/github/stars/accetto/headless-drawing-g3?icon=github&label=stars
+
+[badge-github-headless-drawing-g3-forks]: https://badgen.net/github/forks/accetto/headless-drawing-g3?icon=github&label=forks
+
+[badge-github-headless-drawing-g3-releases]: https://badgen.net/github/releases/accetto/headless-drawing-g3?icon=github&label=releases
+
+[badge-github-headless-drawing-g3-commits]: https://badgen.net/github/commits/accetto/headless-drawing-g3?icon=github&label=commits
+
+[badge-github-headless-drawing-g3-last-commit]: https://badgen.net/github/last-commit/accetto/headless-drawing-g3?icon=github&label=last%20commit
+
+[badge-github-headless-drawing-g3-closed-issues]: https://badgen.net/github/closed-issues/accetto/headless-drawing-g3?icon=github&label=closed%20issues
+
+[badge-github-headless-drawing-g3-open-issues]: https://badgen.net/github/open-issues/accetto/headless-drawing-g3?icon=github&label=open%20issues
+
+[badge-github-workflow-dockerhub-autobuild]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-autobuild/badge.svg
+
+[badge-github-workflow-dockerhub-post-push]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-post-push/badge.svg
 
 <!-- github badges xubuntu-vnc -->
 
