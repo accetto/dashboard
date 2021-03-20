@@ -4,6 +4,8 @@
 
 ***
 
+## Active repositories
+
 [ubuntu-vnc-xfce-g3](https://github.com/accetto/ubuntu-vnc-xfce-g3)
 
 ![badge-github-ubuntu-vnc-xfce-g3-open-issues][badge-github-ubuntu-vnc-xfce-g3-open-issues]
@@ -15,6 +17,20 @@
 ![badge-github-ubuntu-vnc-xfce-g3-releases][badge-github-ubuntu-vnc-xfce-g3-releases]
 ![badge-github-ubuntu-vnc-xfce-g3-commits][badge-github-ubuntu-vnc-xfce-g3-commits]
 ![badge-github-ubuntu-vnc-xfce-g3-last-commit][badge-github-ubuntu-vnc-xfce-g3-last-commit]
+![badge-github-workflow-dockerhub-autobuild][badge-github-workflow-dockerhub-autobuild]
+![badge-github-workflow-dockerhub-post-push][badge-github-workflow-dockerhub-post-push]
+
+[headless-coding-g3](https://github.com/accetto/headless-coding-g3)
+
+![badge-github-headless-coding-g3-open-issues][badge-github-headless-coding-g3-open-issues]
+![badge-github-headless-coding-g3-release][badge-github-headless-coding-g3-release]
+![badge-github-headless-coding-g3-release-date][badge-github-headless-coding-g3-release-date]
+![badge-github-headless-coding-g3-stars][badge-github-headless-coding-g3-stars]
+![badge-github-headless-coding-g3-forks][badge-github-headless-coding-g3-forks]
+![badge-github-headless-coding-g3-closed-issues][badge-github-headless-coding-g3-closed-issues]
+![badge-github-headless-coding-g3-releases][badge-github-headless-coding-g3-releases]
+![badge-github-headless-coding-g3-commits][badge-github-headless-coding-g3-commits]
+![badge-github-headless-coding-g3-last-commit][badge-github-headless-coding-g3-last-commit]
 ![badge-github-workflow-dockerhub-autobuild][badge-github-workflow-dockerhub-autobuild]
 ![badge-github-workflow-dockerhub-post-push][badge-github-workflow-dockerhub-post-push]
 
@@ -31,18 +47,6 @@
 ![badge-github-headless-drawing-g3-last-commit][badge-github-headless-drawing-g3-last-commit]
 ![badge-github-workflow-dockerhub-autobuild][badge-github-workflow-dockerhub-autobuild]
 ![badge-github-workflow-dockerhub-post-push][badge-github-workflow-dockerhub-post-push]
-
-[xubuntu-vnc](https://github.com/accetto/xubuntu-vnc)
-
-![badge-github-xubuntu-vnc-open-issues][badge-github-xubuntu-vnc-open-issues]
-![badge-github-xubuntu-vnc-release][badge-github-xubuntu-vnc-release]
-![badge-github-xubuntu-vnc-release-date][badge-github-xubuntu-vnc-release-date]
-![badge-github-xubuntu-vnc-stars][badge-github-xubuntu-vnc-stars]
-![badge-github-xubuntu-vnc-forks][badge-github-xubuntu-vnc-forks]
-![badge-github-xubuntu-vnc-closed-issues][badge-github-xubuntu-vnc-closed-issues]
-![badge-github-xubuntu-vnc-releases][badge-github-xubuntu-vnc-releases]
-![badge-github-xubuntu-vnc-commits][badge-github-xubuntu-vnc-commits]
-![badge-github-xubuntu-vnc-last-commit][badge-github-xubuntu-vnc-last-commit]
 
 [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc)
 
@@ -116,6 +120,20 @@
 ![badge-github-argbash-docker-commits][badge-github-argbash-docker-commits]
 ![badge-github-argbash-docker-last-commit][badge-github-argbash-docker-last-commit]
 
+## Archived repositories
+
+[xubuntu-vnc](https://github.com/accetto/xubuntu-vnc)
+
+![badge-github-xubuntu-vnc-open-issues][badge-github-xubuntu-vnc-open-issues]
+![badge-github-xubuntu-vnc-release][badge-github-xubuntu-vnc-release]
+![badge-github-xubuntu-vnc-release-date][badge-github-xubuntu-vnc-release-date]
+![badge-github-xubuntu-vnc-stars][badge-github-xubuntu-vnc-stars]
+![badge-github-xubuntu-vnc-forks][badge-github-xubuntu-vnc-forks]
+![badge-github-xubuntu-vnc-closed-issues][badge-github-xubuntu-vnc-closed-issues]
+![badge-github-xubuntu-vnc-releases][badge-github-xubuntu-vnc-releases]
+![badge-github-xubuntu-vnc-commits][badge-github-xubuntu-vnc-commits]
+![badge-github-xubuntu-vnc-last-commit][badge-github-xubuntu-vnc-last-commit]
+
 [hello-there](https://github.com/accetto/hello-there)
 
 ![badge-github-hello-there-open-issues][badge-github-hello-there-open-issues]
@@ -165,6 +183,30 @@
 [badge-github-workflow-dockerhub-autobuild]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-autobuild/badge.svg
 
 [badge-github-workflow-dockerhub-post-push]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-post-push/badge.svg
+
+<!-- github badges headless-coding-g3 -->
+
+[badge-github-headless-coding-g3-release]: https://badgen.net/github/release/accetto/headless-coding-g3?icon=github&label=release
+
+[badge-github-headless-coding-g3-release-date]: https://img.shields.io/github/release-date/accetto/headless-coding-g3?logo=github
+
+[badge-github-headless-coding-g3-stars]: https://badgen.net/github/stars/accetto/headless-coding-g3?icon=github&label=stars
+
+[badge-github-headless-coding-g3-forks]: https://badgen.net/github/forks/accetto/headless-coding-g3?icon=github&label=forks
+
+[badge-github-headless-coding-g3-releases]: https://badgen.net/github/releases/accetto/headless-coding-g3?icon=github&label=releases
+
+[badge-github-headless-coding-g3-commits]: https://badgen.net/github/commits/accetto/headless-coding-g3?icon=github&label=commits
+
+[badge-github-headless-coding-g3-last-commit]: https://badgen.net/github/last-commit/accetto/headless-coding-g3?icon=github&label=last%20commit
+
+[badge-github-headless-coding-g3-closed-issues]: https://badgen.net/github/closed-issues/accetto/headless-coding-g3?icon=github&label=closed%20issues
+
+[badge-github-headless-coding-g3-open-issues]: https://badgen.net/github/open-issues/accetto/headless-coding-g3?icon=github&label=open%20issues
+
+[badge-github-workflow-dockerhub-autobuild]: https://github.com/accetto/headless-coding-g3/workflows/dockerhub-autobuild/badge.svg
+
+[badge-github-workflow-dockerhub-post-push]: https://github.com/accetto/headless-coding-g3/workflows/dockerhub-post-push/badge.svg
 
 <!-- github badges headless-drawing-g3 -->
 
