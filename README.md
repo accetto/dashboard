@@ -10,8 +10,18 @@ Dashboard for personal developer use.
 
 [ubuntu-vnc-xcfe-g3][ubuntu-vnc-xcfe-g3]
 
-![badge-github-workflow-dockerhub-autobuild][badge-github-workflow-dockerhub-autobuild]
-![badge-github-workflow-dockerhub-post-push][badge-github-workflow-dockerhub-post-push]
+![badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3][badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3]
+![badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xcfe-g3][badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xcfe-g3]
+
+[headless-coding-g3][headless-coding-g3]
+
+![badge-github-workflow-dockerhub-autobuild-headless-coding-g3][badge-github-workflow-dockerhub-autobuild-headless-coding-g3]
+![badge-github-workflow-dockerhub-post-push-headless-coding-g3][badge-github-workflow-dockerhub-post-push-headless-coding-g3]
+
+[headless-drawing-g3][headless-drawing-g3]
+
+![badge-github-workflow-dockerhub-autobuild-headless-drawing-g3][badge-github-workflow-dockerhub-autobuild-headless-drawing-g3]
+![badge-github-workflow-dockerhub-post-push-headless-drawing-g3][badge-github-workflow-dockerhub-post-push-headless-drawing-g3]
 
 ***
 
@@ -21,10 +31,26 @@ Dashboard for personal developer use.
 
 [Docker Hub Dashboard]: https://github.com/accetto/dashboard/blob/master/dockerhub-dashboard.md
 
-<!-- ubuntu-vnc-xcfe-g3 -->
+<!-- ubuntu-vnc-xfce-g3 -->
 
 [ubuntu-vnc-xcfe-g3]: https://github.com/accetto/ubuntu-vnc-xfce-g3
 
-[badge-github-workflow-dockerhub-autobuild]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-autobuild/badge.svg
+[badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-autobuild/badge.svg
 
-[badge-github-workflow-dockerhub-post-push]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-post-push/badge.svg
+[badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xcfe-g3]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-post-push/badge.svg
+
+<!-- headless-coding-g3 -->
+
+[headless-coding-g3]: https://github.com/accetto/headless-coding-g3
+
+[badge-github-workflow-dockerhub-autobuild-headless-coding-g3]: https://github.com/accetto/headless-coding-g3/workflows/dockerhub-autobuild/badge.svg
+
+[badge-github-workflow-dockerhub-post-push-headless-coding-g3]: https://github.com/accetto/headless-coding-g3/workflows/dockerhub-post-push/badge.svg
+
+<!-- headless-drawing-g3 -->
+
+[headless-drawing-g3]: https://github.com/accetto/headless-drawing-g3
+
+[badge-github-workflow-dockerhub-autobuild-headless-drawing-g3]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-autobuild/badge.svg
+
+[badge-github-workflow-dockerhub-post-push-headless-drawing-g3]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-post-push/badge.svg
