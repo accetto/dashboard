@@ -10,18 +10,18 @@ Dashboard for personal developer use.
 
 [ubuntu-vnc-xcfe-g3][ubuntu-vnc-xcfe-g3]
 
-![badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3][badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3]
-![badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xcfe-g3][badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xcfe-g3]
+<!-- ![badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3][badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3] -->
+<!-- ![badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xcfe-g3][badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xcfe-g3] -->
 
 [headless-coding-g3][headless-coding-g3]
 
-![badge-github-workflow-dockerhub-autobuild-headless-coding-g3][badge-github-workflow-dockerhub-autobuild-headless-coding-g3]
-![badge-github-workflow-dockerhub-post-push-headless-coding-g3][badge-github-workflow-dockerhub-post-push-headless-coding-g3]
+<!-- ![badge-github-workflow-dockerhub-autobuild-headless-coding-g3][badge-github-workflow-dockerhub-autobuild-headless-coding-g3] -->
+<!-- ![badge-github-workflow-dockerhub-post-push-headless-coding-g3][badge-github-workflow-dockerhub-post-push-headless-coding-g3] -->
 
 [headless-drawing-g3][headless-drawing-g3]
 
-![badge-github-workflow-dockerhub-autobuild-headless-drawing-g3][badge-github-workflow-dockerhub-autobuild-headless-drawing-g3]
-![badge-github-workflow-dockerhub-post-push-headless-drawing-g3][badge-github-workflow-dockerhub-post-push-headless-drawing-g3]
+<!-- ![badge-github-workflow-dockerhub-autobuild-headless-drawing-g3][badge-github-workflow-dockerhub-autobuild-headless-drawing-g3] -->
+<!-- ![badge-github-workflow-dockerhub-post-push-headless-drawing-g3][badge-github-workflow-dockerhub-post-push-headless-drawing-g3] -->
 
 ***
 

@@ -17,8 +17,8 @@
 ![badge-github-ubuntu-vnc-xfce-g3-releases][badge-github-ubuntu-vnc-xfce-g3-releases]
 ![badge-github-ubuntu-vnc-xfce-g3-commits][badge-github-ubuntu-vnc-xfce-g3-commits]
 ![badge-github-ubuntu-vnc-xfce-g3-last-commit][badge-github-ubuntu-vnc-xfce-g3-last-commit]
-![badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xfce-g3][badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xfce-g3]
-![badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xfce-g3][badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xfce-g3]
+<!-- ![badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xfce-g3][badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xfce-g3] -->
+<!-- ![badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xfce-g3][badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xfce-g3] -->
 
 [headless-coding-g3](https://github.com/accetto/headless-coding-g3)
 
@@ -31,8 +31,8 @@
 ![badge-github-headless-coding-g3-releases][badge-github-headless-coding-g3-releases]
 ![badge-github-headless-coding-g3-commits][badge-github-headless-coding-g3-commits]
 ![badge-github-headless-coding-g3-last-commit][badge-github-headless-coding-g3-last-commit]
-![badge-github-workflow-dockerhub-autobuild-headless-coding-g3][badge-github-workflow-dockerhub-autobuild-headless-coding-g3]
-![badge-github-workflow-dockerhub-post-push-headless-coding-g3][badge-github-workflow-dockerhub-post-push-headless-coding-g3]
+<!-- ![badge-github-workflow-dockerhub-autobuild-headless-coding-g3][badge-github-workflow-dockerhub-autobuild-headless-coding-g3] -->
+<!-- ![badge-github-workflow-dockerhub-post-push-headless-coding-g3][badge-github-workflow-dockerhub-post-push-headless-coding-g3] -->
 
 [headless-drawing-g3](https://github.com/accetto/headless-drawing-g3)
 
@@ -45,8 +45,8 @@
 ![badge-github-headless-drawing-g3-releases][badge-github-headless-drawing-g3-releases]
 ![badge-github-headless-drawing-g3-commits][badge-github-headless-drawing-g3-commits]
 ![badge-github-headless-drawing-g3-last-commit][badge-github-headless-drawing-g3-last-commit]
-![badge-github-workflow-dockerhub-autobuild-headless-drawing-g3][badge-github-workflow-dockerhub-autobuild-headless-drawing-g3]
-![badge-github-workflow-dockerhub-post-push-headless-drawing-g3][badge-github-workflow-dockerhub-post-push-headless-drawing-g3]
+<!-- ![badge-github-workflow-dockerhub-autobuild-headless-drawing-g3][badge-github-workflow-dockerhub-autobuild-headless-drawing-g3] -->
+<!-- ![badge-github-workflow-dockerhub-post-push-headless-drawing-g3][badge-github-workflow-dockerhub-post-push-headless-drawing-g3] -->
 
 [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc)
 
