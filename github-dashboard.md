@@ -48,6 +48,20 @@
 <!-- ![badge-github-workflow-dockerhub-autobuild-headless-drawing-g3][badge-github-workflow-dockerhub-autobuild-headless-drawing-g3] -->
 <!-- ![badge-github-workflow-dockerhub-post-push-headless-drawing-g3][badge-github-workflow-dockerhub-post-push-headless-drawing-g3] -->
 
+[argbash-docker](https://github.com/accetto/argbash-docker)
+
+![badge-github-argbash-docker-open-issues][badge-github-argbash-docker-open-issues]
+![badge-github-argbash-docker-release][badge-github-argbash-docker-release]
+![badge-github-argbash-docker-release-date][badge-github-argbash-docker-release-date]
+![badge-github-argbash-docker-stars][badge-github-argbash-docker-stars]
+![badge-github-argbash-docker-forks][badge-github-argbash-docker-forks]
+![badge-github-argbash-docker-closed-issues][badge-github-argbash-docker-closed-issues]
+![badge-github-argbash-docker-releases][badge-github-argbash-docker-releases]
+![badge-github-argbash-docker-commits][badge-github-argbash-docker-commits]
+![badge-github-argbash-docker-last-commit][badge-github-argbash-docker-last-commit]
+
+## Archived repositories
+
 [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc)
 
 ![badge-github-xubuntu-vnc-novnc-open-issues][badge-github-xubuntu-vnc-novnc-open-issues]
@@ -107,20 +121,6 @@
 ![badge-github-ubuntu-vnc-xfce-chromium-releases][badge-github-ubuntu-vnc-xfce-chromium-releases]
 ![badge-github-ubuntu-vnc-xfce-chromium-commits][badge-github-ubuntu-vnc-xfce-chromium-commits]
 ![badge-github-ubuntu-vnc-xfce-chromium-last-commit][badge-github-ubuntu-vnc-xfce-chromium-last-commit]
-
-[argbash-docker](https://github.com/accetto/argbash-docker)
-
-![badge-github-argbash-docker-open-issues][badge-github-argbash-docker-open-issues]
-![badge-github-argbash-docker-release][badge-github-argbash-docker-release]
-![badge-github-argbash-docker-release-date][badge-github-argbash-docker-release-date]
-![badge-github-argbash-docker-stars][badge-github-argbash-docker-stars]
-![badge-github-argbash-docker-forks][badge-github-argbash-docker-forks]
-![badge-github-argbash-docker-closed-issues][badge-github-argbash-docker-closed-issues]
-![badge-github-argbash-docker-releases][badge-github-argbash-docker-releases]
-![badge-github-argbash-docker-commits][badge-github-argbash-docker-commits]
-![badge-github-argbash-docker-last-commit][badge-github-argbash-docker-last-commit]
-
-## Archived repositories
 
 [xubuntu-vnc](https://github.com/accetto/xubuntu-vnc)
 
