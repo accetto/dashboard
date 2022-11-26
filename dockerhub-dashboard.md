@@ -8,6 +8,7 @@
 
 | Repository                                                                                          | Pulls                                                                                                     | Stars                                                                                                     |
 | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
+| Generation 3                                                                                        |
 | [ubuntu-vnc-xfce-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-g3)                           | ![badge-docker-ubuntu-vnc-xfce-g3-pulls][badge-docker-ubuntu-vnc-xfce-g3-pulls]                           | ![badge-docker-ubuntu-vnc-xfce-g3-stars][badge-docker-ubuntu-vnc-xfce-g3-stars]                           |
 | [ubuntu-vnc-xfce-chromium-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-chromium-g3)         | ![badge-docker-ubuntu-vnc-xfce-chromium-g3-pulls][badge-docker-ubuntu-vnc-xfce-chromium-g3-pulls]         | ![badge-docker-ubuntu-vnc-xfce-chromium-g3-stars][badge-docker-ubuntu-vnc-xfce-chromium-g3-stars]         |
 | [ubuntu-vnc-xfce-firefox-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-firefox-g3)           | ![badge-docker-ubuntu-vnc-xfce-firefox-g3-pulls][badge-docker-ubuntu-vnc-xfce-firefox-g3-pulls]           | ![badge-docker-ubuntu-vnc-xfce-firefox-g3-stars][badge-docker-ubuntu-vnc-xfce-firefox-g3-stars]           |
@@ -20,20 +21,23 @@
 | [ubuntu-vnc-xfce-nodejs-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-nodejs-g3)             | ![badge-docker-ubuntu-vnc-xfce-nodejs-g3-pulls][badge-docker-ubuntu-vnc-xfce-nodejs-g3-pulls]             | ![badge-docker-ubuntu-vnc-xfce-nodejs-g3-stars][badge-docker-ubuntu-vnc-xfce-nodejs-g3-stars]             |
 | [ubuntu-vnc-xfce-postman-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-postman-g3)           | ![badge-docker-ubuntu-vnc-xfce-postman-g3-pulls][badge-docker-ubuntu-vnc-xfce-postman-g3-pulls]           | ![badge-docker-ubuntu-vnc-xfce-postman-g3-stars][badge-docker-ubuntu-vnc-xfce-postman-g3-stars]           |
 | [ubuntu-vnc-xfce-python-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-python-g3)             | ![badge-docker-ubuntu-vnc-xfce-python-g3-pulls][badge-docker-ubuntu-vnc-xfce-python-g3-pulls]             | ![badge-docker-ubuntu-vnc-xfce-python-g3-stars][badge-docker-ubuntu-vnc-xfce-python-g3-stars]             |
+| Generation 2                                                                                        |
 | [xubuntu-vnc-novnc](https://hub.docker.com/r/accetto/xubuntu-vnc-novnc)                             | ![badge-docker-xubuntu-vnc-novnc-pulls][badge-docker-xubuntu-vnc-novnc-pulls]                             | ![badge-docker-xubuntu-vnc-novnc-stars][badge-docker-xubuntu-vnc-novnc-stars]                             |
 | [xubuntu-vnc-novnc-chrome](https://hub.docker.com/r/accetto/xubuntu-vnc-novnc-chrome)               | ![badge-docker-xubuntu-vnc-novnc-chrome-pulls][badge-docker-xubuntu-vnc-novnc-chrome-pulls]               | ![badge-docker-xubuntu-vnc-novnc-chrome-stars][badge-docker-xubuntu-vnc-novnc-chrome-stars]               |
 | [xubuntu-vnc-novnc-chromium](https://hub.docker.com/r/accetto/xubuntu-vnc-novnc-chromium)           | ![badge-docker-xubuntu-vnc-novnc-chromium-pulls][badge-docker-xubuntu-vnc-novnc-chromium-pulls]           | ![badge-docker-xubuntu-vnc-novnc-chromium-stars][badge-docker-xubuntu-vnc-novnc-chromium-stars]           |
 | [xubuntu-vnc-novnc-firefox](https://hub.docker.com/r/accetto/xubuntu-vnc-novnc-firefox)             | ![badge-docker-xubuntu-vnc-novnc-firefox-pulls][badge-docker-xubuntu-vnc-novnc-firefox-pulls]             | ![badge-docker-xubuntu-vnc-novnc-firefox-stars][badge-docker-xubuntu-vnc-novnc-firefox-stars]             |
+| Generation 1                                                                                        |
 | [ubuntu-vnc-xfce](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce)                                 | ![badge-docker-ubuntu-vnc-xfce-pulls][badge-docker-ubuntu-vnc-xfce-pulls]                                 | ![badge-docker-ubuntu-vnc-xfce-stars][badge-docker-ubuntu-vnc-xfce-stars]                                 |
 | [ubuntu-vnc-xfce-chromium](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-chromium)               | ![badge-docker-ubuntu-vnc-xfce-chromium-pulls][badge-docker-ubuntu-vnc-xfce-chromium-pulls]               | ![badge-docker-ubuntu-vnc-xfce-chromium-stars][badge-docker-ubuntu-vnc-xfce-chromium-stars]               |
 | [ubuntu-vnc-xfce-firefox-default](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-firefox-default) | ![badge-docker-ubuntu-vnc-xfce-firefox-default-pulls][badge-docker-ubuntu-vnc-xfce-firefox-default-pulls] | ![badge-docker-ubuntu-vnc-xfce-firefox-default-stars][badge-docker-ubuntu-vnc-xfce-firefox-default-stars] |
 | [ubuntu-vnc-xfce-firefox-plus](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-firefox-plus)       | ![badge-docker-ubuntu-vnc-xfce-firefox-plus-pulls][badge-docker-ubuntu-vnc-xfce-firefox-plus-pulls]       | ![badge-docker-ubuntu-vnc-xfce-firefox-plus-stars][badge-docker-ubuntu-vnc-xfce-firefox-plus-stars]       |
+| Other                                                                                               |
 | [argbash-docker](https://hub.docker.com/r/accetto/argbash-docker)                                   | ![badge-docker-argbash-docker-pulls][badge-docker-argbash-docker-pulls]                                   | ![badge-docker-argbash-docker-stars][badge-docker-argbash-docker-stars]                                   |
 
 ## Archived repositories
 
-| Repository                                                                                          | Pulls                                                                                                     | Stars                                                                                                     |
-| :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
+| Repository | Pulls | Stars |
+| :--------- | :---- | :---- |
 
 ***
 

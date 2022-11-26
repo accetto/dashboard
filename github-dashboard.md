@@ -48,7 +48,7 @@
 <!-- ![badge-github-workflow-dockerhub-autobuild-headless-drawing-g3][badge-github-workflow-dockerhub-autobuild-headless-drawing-g3] -->
 <!-- ![badge-github-workflow-dockerhub-post-push-headless-drawing-g3][badge-github-workflow-dockerhub-post-push-headless-drawing-g3] -->
 
-[xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc)
+[xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc)-g2
 
 ![badge-github-xubuntu-vnc-novnc-open-issues][badge-github-xubuntu-vnc-novnc-open-issues]
 ![badge-github-xubuntu-vnc-novnc-release][badge-github-xubuntu-vnc-novnc-release]
@@ -60,7 +60,7 @@
 ![badge-github-xubuntu-vnc-novnc-commits][badge-github-xubuntu-vnc-novnc-commits]
 ![badge-github-xubuntu-vnc-novnc-last-commit][badge-github-xubuntu-vnc-novnc-last-commit]
 
-[ubuntu-vnc-xfce](https://github.com/accetto/ubuntu-vnc-xfce)
+[ubuntu-vnc-xfce](https://github.com/accetto/ubuntu-vnc-xfce)-g1
 
 ![badge-github-ubuntu-vnc-xfce-open-issues][badge-github-ubuntu-vnc-xfce-open-issues]
 ![badge-github-ubuntu-vnc-xfce-release][badge-github-ubuntu-vnc-xfce-release]
