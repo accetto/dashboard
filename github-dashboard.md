@@ -86,7 +86,7 @@
 
 ## Archived repositories
 
-[ubuntu-vnc-xfce-firefox](https://github.com/accetto/ubuntu-vnc-xfce-firefox)
+[ubuntu-vnc-xfce-firefox](https://github.com/accetto/ubuntu-vnc-xfce-firefox) (activated and merged into [ubuntu-vnc-xfce](https://github.com/accetto/ubuntu-vnc-xfce)-g1)
 
 ![badge-github-ubuntu-vnc-xfce-firefox-open-issues][badge-github-ubuntu-vnc-xfce-firefox-open-issues]
 ![badge-github-ubuntu-vnc-xfce-firefox-release][badge-github-ubuntu-vnc-xfce-firefox-release]
@@ -98,7 +98,7 @@
 ![badge-github-ubuntu-vnc-xfce-firefox-commits][badge-github-ubuntu-vnc-xfce-firefox-commits]
 ![badge-github-ubuntu-vnc-xfce-firefox-last-commit][badge-github-ubuntu-vnc-xfce-firefox-last-commit]
 
-[ubuntu-vnc-xfce-firefox-plus](https://github.com/accetto/ubuntu-vnc-xfce-firefox-plus)
+[ubuntu-vnc-xfce-firefox-plus](https://github.com/accetto/ubuntu-vnc-xfce-firefox-plus) (activated and merged into [ubuntu-vnc-xfce](https://github.com/accetto/ubuntu-vnc-xfce)-g1)
 
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-open-issues][badge-github-ubuntu-vnc-xfce-firefox-plus-open-issues]
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-release][badge-github-ubuntu-vnc-xfce-firefox-plus-release]
@@ -110,7 +110,7 @@
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-commits][badge-github-ubuntu-vnc-xfce-firefox-plus-commits]
 ![badge-github-ubuntu-vnc-xfce-firefox-plus-last-commit][badge-github-ubuntu-vnc-xfce-firefox-plus-last-commit]
 
-[ubuntu-vnc-xfce-chromium](https://github.com/accetto/ubuntu-vnc-xfce-chromium)
+[ubuntu-vnc-xfce-chromium](https://github.com/accetto/ubuntu-vnc-xfce-chromium) (activated and merged into [ubuntu-vnc-xfce](https://github.com/accetto/ubuntu-vnc-xfce)-g1)
 
 ![badge-github-ubuntu-vnc-xfce-chromium-open-issues][badge-github-ubuntu-vnc-xfce-chromium-open-issues]
 ![badge-github-ubuntu-vnc-xfce-chromium-release][badge-github-ubuntu-vnc-xfce-chromium-release]
