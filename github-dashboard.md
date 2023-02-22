@@ -20,6 +20,18 @@
 <!-- ![badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xfce-g3][badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xfce-g3] -->
 <!-- ![badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xfce-g3][badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xfce-g3] -->
 
+[debian-vnc-xfce-g3](https://github.com/accetto/debian-vnc-xfce-g3)
+
+![badge-github-debian-vnc-xfce-g3-open-issues][badge-github-debian-vnc-xfce-g3-open-issues]
+![badge-github-debian-vnc-xfce-g3-release][badge-github-debian-vnc-xfce-g3-release]
+![badge-github-debian-vnc-xfce-g3-release-date][badge-github-debian-vnc-xfce-g3-release-date]
+![badge-github-debian-vnc-xfce-g3-stars][badge-github-debian-vnc-xfce-g3-stars]
+![badge-github-debian-vnc-xfce-g3-forks][badge-github-debian-vnc-xfce-g3-forks]
+![badge-github-debian-vnc-xfce-g3-closed-issues][badge-github-debian-vnc-xfce-g3-closed-issues]
+![badge-github-debian-vnc-xfce-g3-releases][badge-github-debian-vnc-xfce-g3-releases]
+![badge-github-debian-vnc-xfce-g3-commits][badge-github-debian-vnc-xfce-g3-commits]
+![badge-github-debian-vnc-xfce-g3-last-commit][badge-github-debian-vnc-xfce-g3-last-commit]
+
 [headless-coding-g3](https://github.com/accetto/headless-coding-g3)
 
 ![badge-github-headless-coding-g3-open-issues][badge-github-headless-coding-g3-open-issues]
@@ -180,9 +192,31 @@
 
 [badge-github-ubuntu-vnc-xfce-g3-open-issues]: https://badgen.net/github/open-issues/accetto/ubuntu-vnc-xfce-g3?icon=github&label=open%20issues
 
-[badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xfce-g3]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-autobuild/badge.svg
+<!-- [badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xfce-g3]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-autobuild/badge.svg -->
 
-[badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xfce-g3]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-post-push/badge.svg
+<!-- [badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xfce-g3]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-post-push/badge.svg -->
+
+
+<!-- github badges debian-vnc-xfce-g3 -->
+
+[badge-github-debian-vnc-xfce-g3-release]: https://badgen.net/github/release/accetto/debian-vnc-xfce-g3?icon=github&label=release
+
+[badge-github-debian-vnc-xfce-g3-release-date]: https://img.shields.io/github/release-date/accetto/debian-vnc-xfce-g3?logo=github
+
+[badge-github-debian-vnc-xfce-g3-stars]: https://badgen.net/github/stars/accetto/debian-vnc-xfce-g3?icon=github&label=stars
+
+[badge-github-debian-vnc-xfce-g3-forks]: https://badgen.net/github/forks/accetto/debian-vnc-xfce-g3?icon=github&label=forks
+
+[badge-github-debian-vnc-xfce-g3-releases]: https://badgen.net/github/releases/accetto/debian-vnc-xfce-g3?icon=github&label=releases
+
+[badge-github-debian-vnc-xfce-g3-commits]: https://badgen.net/github/commits/accetto/debian-vnc-xfce-g3?icon=github&label=commits
+
+[badge-github-debian-vnc-xfce-g3-last-commit]: https://badgen.net/github/last-commit/accetto/debian-vnc-xfce-g3?icon=github&label=last%20commit
+
+[badge-github-debian-vnc-xfce-g3-closed-issues]: https://badgen.net/github/closed-issues/accetto/debian-vnc-xfce-g3?icon=github&label=closed%20issues
+
+[badge-github-debian-vnc-xfce-g3-open-issues]: https://badgen.net/github/open-issues/accetto/debian-vnc-xfce-g3?icon=github&label=open%20issues
+
 
 <!-- github badges headless-coding-g3 -->
 
@@ -204,9 +238,10 @@
 
 [badge-github-headless-coding-g3-open-issues]: https://badgen.net/github/open-issues/accetto/headless-coding-g3?icon=github&label=open%20issues
 
-[badge-github-workflow-dockerhub-autobuild-headless-coding-g3]: https://github.com/accetto/headless-coding-g3/workflows/dockerhub-autobuild/badge.svg
+<!-- [badge-github-workflow-dockerhub-autobuild-headless-coding-g3]: https://github.com/accetto/headless-coding-g3/workflows/dockerhub-autobuild/badge.svg -->
 
-[badge-github-workflow-dockerhub-post-push-headless-coding-g3]: https://github.com/accetto/headless-coding-g3/workflows/dockerhub-post-push/badge.svg
+<!-- [badge-github-workflow-dockerhub-post-push-headless-coding-g3]: https://github.com/accetto/headless-coding-g3/workflows/dockerhub-post-push/badge.svg -->
+
 
 <!-- github badges headless-drawing-g3 -->
 
@@ -228,9 +263,10 @@
 
 [badge-github-headless-drawing-g3-open-issues]: https://badgen.net/github/open-issues/accetto/headless-drawing-g3?icon=github&label=open%20issues
 
-[badge-github-workflow-dockerhub-autobuild-headless-drawing-g3]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-autobuild/badge.svg
+<!-- [badge-github-workflow-dockerhub-autobuild-headless-drawing-g3]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-autobuild/badge.svg -->
 
-[badge-github-workflow-dockerhub-post-push-headless-drawing-g3]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-post-push/badge.svg
+<!-- [badge-github-workflow-dockerhub-post-push-headless-drawing-g3]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-post-push/badge.svg -->
+
 
 <!-- github badges xubuntu-vnc -->
 
@@ -252,6 +288,7 @@
 
 [badge-github-xubuntu-vnc-open-issues]: https://badgen.net/github/open-issues/accetto/xubuntu-vnc?icon=github&label=open%20issues
 
+
 <!-- github badges xubuntu-vnc-novnc -->
 
 [badge-github-xubuntu-vnc-novnc-release]: https://badgen.net/github/release/accetto/xubuntu-vnc-novnc?icon=github&label=release
@@ -271,6 +308,7 @@
 [badge-github-xubuntu-vnc-novnc-closed-issues]: https://badgen.net/github/closed-issues/accetto/xubuntu-vnc-novnc?icon=github&label=closed%20issues
 
 [badge-github-xubuntu-vnc-novnc-open-issues]: https://badgen.net/github/open-issues/accetto/xubuntu-vnc-novnc?icon=github&label=open%20issues
+
 
 <!-- github badges ubuntu-vnc-xfce -->
 
@@ -292,6 +330,7 @@
 
 [badge-github-ubuntu-vnc-xfce-open-issues]: https://badgen.net/github/open-issues/accetto/ubuntu-vnc-xfce?icon=github&label=open%20issues
 
+
 <!-- github badges ubuntu-vnc-xfce-firefox -->
 
 [badge-github-ubuntu-vnc-xfce-firefox-release]: https://badgen.net/github/release/accetto/ubuntu-vnc-xfce-firefox?icon=github&label=release
@@ -311,6 +350,7 @@
 [badge-github-ubuntu-vnc-xfce-firefox-closed-issues]: https://badgen.net/github/closed-issues/accetto/ubuntu-vnc-xfce-firefox?icon=github&label=closed%20issues
 
 [badge-github-ubuntu-vnc-xfce-firefox-open-issues]: https://badgen.net/github/open-issues/accetto/ubuntu-vnc-xfce-firefox?icon=github&label=open%20issues
+
 
 <!-- github badges ubuntu-vnc-xfce-firefox-plus -->
 
@@ -332,6 +372,7 @@
 
 [badge-github-ubuntu-vnc-xfce-firefox-plus-open-issues]: https://badgen.net/github/open-issues/accetto/ubuntu-vnc-xfce-firefox-plus?icon=github&label=open%20issues
 
+
 <!-- github badges ubuntu-vnc-xfce-chromium -->
 
 [badge-github-ubuntu-vnc-xfce-chromium-release]: https://badgen.net/github/release/accetto/ubuntu-vnc-xfce-chromium?icon=github&label=release
@@ -351,6 +392,7 @@
 [badge-github-ubuntu-vnc-xfce-chromium-closed-issues]: https://badgen.net/github/closed-issues/accetto/ubuntu-vnc-xfce-chromium?icon=github&label=closed%20issues
 
 [badge-github-ubuntu-vnc-xfce-chromium-open-issues]: https://badgen.net/github/open-issues/accetto/ubuntu-vnc-xfce-chromium?icon=github&label=open%20issues
+
 
 <!-- github badges argbash-docker -->
 
@@ -372,6 +414,7 @@
 
 [badge-github-argbash-docker-open-issues]: https://badgen.net/github/open-issues/accetto/argbash-docker?icon=github&label=open%20issues
 
+
 <!-- github badges hello-there -->
 
 [badge-github-hello-there-release]: https://badgen.net/github/release/accetto/hello-there?icon=github&label=release
@@ -391,6 +434,7 @@
 [badge-github-hello-there-closed-issues]: https://badgen.net/github/closed-issues/accetto/hello-there?icon=github&label=closed%20issues
 
 [badge-github-hello-there-open-issues]: https://badgen.net/github/open-issues/accetto/hello-there?icon=github&label=open%20issues
+
 
 <!-- github badges dev-base-->
 
