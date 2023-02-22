@@ -13,6 +13,11 @@ Dashboard for personal developer use.
 <!-- ![badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3][badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3] -->
 <!-- ![badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xcfe-g3][badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xcfe-g3] -->
 
+[debian-vnc-xcfe-g3][debian-vnc-xcfe-g3]
+
+<!-- ![badge-github-workflow-dockerhub-autobuild-debian-vnc-xcfe-g3][badge-github-workflow-dockerhub-autobuild-debian-vnc-xcfe-g3] -->
+<!-- ![badge-github-workflow-dockerhub-post-push-debian-vnc-xcfe-g3][badge-github-workflow-dockerhub-post-push-debian-vnc-xcfe-g3] -->
+
 [headless-coding-g3][headless-coding-g3]
 
 <!-- ![badge-github-workflow-dockerhub-autobuild-headless-coding-g3][badge-github-workflow-dockerhub-autobuild-headless-coding-g3] -->
@@ -38,6 +43,14 @@ Dashboard for personal developer use.
 [badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-autobuild/badge.svg
 
 [badge-github-workflow-dockerhub-post-push-ubuntu-vnc-xcfe-g3]: https://github.com/accetto/ubuntu-vnc-xfce-g3/workflows/dockerhub-post-push/badge.svg
+
+<!-- debian-vnc-xfce-g3 -->
+
+[debian-vnc-xcfe-g3]: https://github.com/accetto/debian-vnc-xfce-g3
+
+[badge-github-workflow-dockerhub-autobuild-debian-vnc-xcfe-g3]: https://github.com/accetto/debian-vnc-xfce-g3/workflows/dockerhub-autobuild/badge.svg
+
+[badge-github-workflow-dockerhub-post-push-debian-vnc-xcfe-g3]: https://github.com/accetto/debian-vnc-xfce-g3/workflows/dockerhub-post-push/badge.svg
 
 <!-- headless-coding-g3 -->
 
