@@ -60,6 +60,13 @@
 <!-- ![badge-github-workflow-dockerhub-autobuild-headless-drawing-g3][badge-github-workflow-dockerhub-autobuild-headless-drawing-g3] -->
 <!-- ![badge-github-workflow-dockerhub-post-push-headless-drawing-g3][badge-github-workflow-dockerhub-post-push-headless-drawing-g3] -->
 
+[user-guide-g3](https://github.com/accetto/user-guide-g3)
+
+![badge-github-user-guide-g3-open-issues][badge-github-user-guide-g3-open-issues]
+![badge-github-user-guide-g3-release][badge-github-user-guide-g3-release]
+![badge-github-user-guide-g3-release-date][badge-github-user-guide-g3-release-date]
+![badge-github-user-guide-g3-last-commit][badge-github-user-guide-g3-last-commit]
+
 [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc)-g2
 
 ![badge-github-xubuntu-vnc-novnc-open-issues][badge-github-xubuntu-vnc-novnc-open-issues]
@@ -225,6 +232,12 @@
 <!-- [badge-github-headless-drawing-g3-closed-issues]: https://badgen.net/github/closed-issues/accetto/headless-drawing-g3?icon=github&label=closed%20issues -->
 <!-- [badge-github-workflow-dockerhub-autobuild-headless-drawing-g3]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-autobuild/badge.svg -->
 <!-- [badge-github-workflow-dockerhub-post-push-headless-drawing-g3]: https://github.com/accetto/headless-drawing-g3/workflows/dockerhub-post-push/badge.svg -->
+
+<!-- github badges user-guide-g3 -->
+[badge-github-user-guide-g3-open-issues]: https://badgen.net/github/open-issues/accetto/user-guide-g3?icon=github&label=open%20issues
+[badge-github-user-guide-g3-release]: https://badgen.net/github/release/accetto/user-guide-g3?icon=github&label=release
+[badge-github-user-guide-g3-release-date]: https://img.shields.io/github/release-date/accetto/user-guide-g3?logo=github
+[badge-github-user-guide-g3-last-commit]: https://badgen.net/github/last-commit/accetto/user-guide-g3?icon=github&label=last%20commit
 
 <!-- github badges xubuntu-vnc -->
 
