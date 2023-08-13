@@ -38,14 +38,6 @@
 | Other                                                                                               |
 | [argbash-docker](https://hub.docker.com/r/accetto/argbash-docker)                                   | ![badge-docker-argbash-docker-pulls][badge-docker-argbash-docker-pulls]                                   | ![badge-docker-argbash-docker-stars][badge-docker-argbash-docker-stars]                                   |
 
-## Archived repositories
-
-| Repository | Pulls | Stars |
-| :--------- | :---- | :---- |
-| [ubuntu-vnc-xfce-nodejs-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-nodejs-g3)             | ![badge-docker-ubuntu-vnc-xfce-nodejs-g3-pulls][badge-docker-ubuntu-vnc-xfce-nodejs-g3-pulls]             | ![badge-docker-ubuntu-vnc-xfce-nodejs-g3-stars][badge-docker-ubuntu-vnc-xfce-nodejs-g3-stars]             |
-| [ubuntu-vnc-xfce-postman-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-postman-g3)           | ![badge-docker-ubuntu-vnc-xfce-postman-g3-pulls][badge-docker-ubuntu-vnc-xfce-postman-g3-pulls]           | ![badge-docker-ubuntu-vnc-xfce-postman-g3-stars][badge-docker-ubuntu-vnc-xfce-postman-g3-stars]           |
-| [ubuntu-vnc-xfce-python-g3](https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-python-g3)             | ![badge-docker-ubuntu-vnc-xfce-python-g3-pulls][badge-docker-ubuntu-vnc-xfce-python-g3-pulls]             | ![badge-docker-ubuntu-vnc-xfce-python-g3-stars][badge-docker-ubuntu-vnc-xfce-python-g3-stars]             |
-
 ***
 
 <!-- headless browsing -->
@@ -209,23 +201,3 @@
 [badge-docker-argbash-docker-pulls]: https://badgen.net/docker/pulls/accetto/argbash-docker?icon=docker&label=pulls
 
 [badge-docker-argbash-docker-stars]: https://badgen.net/docker/stars/accetto/argbash-docker?icon=docker&label=stars
-
-<!-- Retired repositories -->
-
-<!-- docker badges ubuntu-vnc-xfce-nodejs-g3 -->
-
-[badge-docker-ubuntu-vnc-xfce-nodejs-g3-pulls]: https://badgen.net/docker/pulls/accetto/ubuntu-vnc-xfce-nodejs-g3?icon=docker&label=pulls
-
-[badge-docker-ubuntu-vnc-xfce-nodejs-g3-stars]: https://badgen.net/docker/stars/accetto/ubuntu-vnc-xfce-nodejs-g3?icon=docker&label=stars
-
-<!-- docker badges ubuntu-vnc-xfce-postman-g3 -->
-
-[badge-docker-ubuntu-vnc-xfce-postman-g3-pulls]: https://badgen.net/docker/pulls/accetto/ubuntu-vnc-xfce-postman-g3?icon=docker&label=pulls
-
-[badge-docker-ubuntu-vnc-xfce-postman-g3-stars]: https://badgen.net/docker/stars/accetto/ubuntu-vnc-xfce-postman-g3?icon=docker&label=stars
-
-<!-- docker badges ubuntu-vnc-xfce-python-g3 -->
-
-[badge-docker-ubuntu-vnc-xfce-python-g3-pulls]: https://badgen.net/docker/pulls/accetto/ubuntu-vnc-xfce-python-g3?icon=docker&label=pulls
-
-[badge-docker-ubuntu-vnc-xfce-python-g3-stars]: https://badgen.net/docker/stars/accetto/ubuntu-vnc-xfce-python-g3?icon=docker&label=stars
