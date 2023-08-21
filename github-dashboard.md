@@ -12,8 +12,8 @@
 ![badge-github-ubuntu-vnc-xfce-g3-release][badge-github-ubuntu-vnc-xfce-g3-release]
 ![badge-github-ubuntu-vnc-xfce-g3-release-date][badge-github-ubuntu-vnc-xfce-g3-release-date]
 ![badge-github-ubuntu-vnc-xfce-g3-last-commit][badge-github-ubuntu-vnc-xfce-g3-last-commit]
-<!-- ![badge-github-ubuntu-vnc-xfce-g3-stars][badge-github-ubuntu-vnc-xfce-g3-stars] -->
-<!-- ![badge-github-ubuntu-vnc-xfce-g3-forks][badge-github-ubuntu-vnc-xfce-g3-forks] -->
+![badge-github-ubuntu-vnc-xfce-g3-stars][badge-github-ubuntu-vnc-xfce-g3-stars]
+![badge-github-ubuntu-vnc-xfce-g3-forks][badge-github-ubuntu-vnc-xfce-g3-forks]
 <!-- ![badge-github-ubuntu-vnc-xfce-g3-closed-issues][badge-github-ubuntu-vnc-xfce-g3-closed-issues] -->
 <!-- ![badge-github-ubuntu-vnc-xfce-g3-releases][badge-github-ubuntu-vnc-xfce-g3-releases] -->
 <!-- ![badge-github-ubuntu-vnc-xfce-g3-commits][badge-github-ubuntu-vnc-xfce-g3-commits] -->
@@ -26,8 +26,8 @@
 ![badge-github-debian-vnc-xfce-g3-release][badge-github-debian-vnc-xfce-g3-release]
 ![badge-github-debian-vnc-xfce-g3-release-date][badge-github-debian-vnc-xfce-g3-release-date]
 ![badge-github-debian-vnc-xfce-g3-last-commit][badge-github-debian-vnc-xfce-g3-last-commit]
-<!-- ![badge-github-debian-vnc-xfce-g3-stars][badge-github-debian-vnc-xfce-g3-stars] -->
-<!-- ![badge-github-debian-vnc-xfce-g3-forks][badge-github-debian-vnc-xfce-g3-forks] -->
+![badge-github-debian-vnc-xfce-g3-stars][badge-github-debian-vnc-xfce-g3-stars]
+![badge-github-debian-vnc-xfce-g3-forks][badge-github-debian-vnc-xfce-g3-forks]
 <!-- ![badge-github-debian-vnc-xfce-g3-closed-issues][badge-github-debian-vnc-xfce-g3-closed-issues] -->
 <!-- ![badge-github-debian-vnc-xfce-g3-releases][badge-github-debian-vnc-xfce-g3-releases] -->
 <!-- ![badge-github-debian-vnc-xfce-g3-commits][badge-github-debian-vnc-xfce-g3-commits] -->
@@ -38,8 +38,8 @@
 ![badge-github-headless-coding-g3-release][badge-github-headless-coding-g3-release]
 ![badge-github-headless-coding-g3-release-date][badge-github-headless-coding-g3-release-date]
 ![badge-github-headless-coding-g3-last-commit][badge-github-headless-coding-g3-last-commit]
-<!-- ![badge-github-headless-coding-g3-stars][badge-github-headless-coding-g3-stars] -->
-<!-- ![badge-github-headless-coding-g3-forks][badge-github-headless-coding-g3-forks] -->
+![badge-github-headless-coding-g3-stars][badge-github-headless-coding-g3-stars]
+![badge-github-headless-coding-g3-forks][badge-github-headless-coding-g3-forks]
 <!-- ![badge-github-headless-coding-g3-closed-issues][badge-github-headless-coding-g3-closed-issues] -->
 <!-- ![badge-github-headless-coding-g3-releases][badge-github-headless-coding-g3-releases] -->
 <!-- ![badge-github-headless-coding-g3-commits][badge-github-headless-coding-g3-commits] -->
@@ -52,8 +52,8 @@
 ![badge-github-headless-drawing-g3-release][badge-github-headless-drawing-g3-release]
 ![badge-github-headless-drawing-g3-release-date][badge-github-headless-drawing-g3-release-date]
 ![badge-github-headless-drawing-g3-last-commit][badge-github-headless-drawing-g3-last-commit]
-<!-- ![badge-github-headless-drawing-g3-stars][badge-github-headless-drawing-g3-stars] -->
-<!-- ![badge-github-headless-drawing-g3-forks][badge-github-headless-drawing-g3-forks] -->
+![badge-github-headless-drawing-g3-stars][badge-github-headless-drawing-g3-stars]
+![badge-github-headless-drawing-g3-forks][badge-github-headless-drawing-g3-forks]
 <!-- ![badge-github-headless-drawing-g3-closed-issues][badge-github-headless-drawing-g3-closed-issues] -->
 <!-- ![badge-github-headless-drawing-g3-releases][badge-github-headless-drawing-g3-releases] -->
 <!-- ![badge-github-headless-drawing-g3-commits][badge-github-headless-drawing-g3-commits] -->
@@ -66,6 +66,8 @@
 ![badge-github-user-guide-g3-release][badge-github-user-guide-g3-release]
 ![badge-github-user-guide-g3-release-date][badge-github-user-guide-g3-release-date]
 ![badge-github-user-guide-g3-last-commit][badge-github-user-guide-g3-last-commit]
+![badge-github-user-guide-g3-stars][badge-github-user-guide-g3-stars]
+![badge-github-user-guide-g3-forks][badge-github-user-guide-g3-forks]
 
 [xubuntu-vnc-novnc](https://github.com/accetto/xubuntu-vnc-novnc)-g2
 
@@ -73,8 +75,8 @@
 ![badge-github-xubuntu-vnc-novnc-release][badge-github-xubuntu-vnc-novnc-release]
 ![badge-github-xubuntu-vnc-novnc-release-date][badge-github-xubuntu-vnc-novnc-release-date]
 ![badge-github-xubuntu-vnc-novnc-last-commit][badge-github-xubuntu-vnc-novnc-last-commit]
-<!-- ![badge-github-xubuntu-vnc-novnc-stars][badge-github-xubuntu-vnc-novnc-stars] -->
-<!-- ![badge-github-xubuntu-vnc-novnc-forks][badge-github-xubuntu-vnc-novnc-forks] -->
+![badge-github-xubuntu-vnc-novnc-stars][badge-github-xubuntu-vnc-novnc-stars]
+![badge-github-xubuntu-vnc-novnc-forks][badge-github-xubuntu-vnc-novnc-forks]
 <!-- ![badge-github-xubuntu-vnc-novnc-closed-issues][badge-github-xubuntu-vnc-novnc-closed-issues] -->
 <!-- ![badge-github-xubuntu-vnc-novnc-releases][badge-github-xubuntu-vnc-novnc-releases] -->
 <!-- ![badge-github-xubuntu-vnc-novnc-commits][badge-github-xubuntu-vnc-novnc-commits] -->
@@ -85,8 +87,8 @@
 ![badge-github-ubuntu-vnc-xfce-release][badge-github-ubuntu-vnc-xfce-release]
 ![badge-github-ubuntu-vnc-xfce-release-date][badge-github-ubuntu-vnc-xfce-release-date]
 ![badge-github-ubuntu-vnc-xfce-last-commit][badge-github-ubuntu-vnc-xfce-last-commit]
-<!-- ![badge-github-ubuntu-vnc-xfce-stars][badge-github-ubuntu-vnc-xfce-stars] -->
-<!-- ![badge-github-ubuntu-vnc-xfce-forks][badge-github-ubuntu-vnc-xfce-forks] -->
+![badge-github-ubuntu-vnc-xfce-stars][badge-github-ubuntu-vnc-xfce-stars]
+![badge-github-ubuntu-vnc-xfce-forks][badge-github-ubuntu-vnc-xfce-forks]
 <!-- ![badge-github-ubuntu-vnc-xfce-closed-issues][badge-github-ubuntu-vnc-xfce-closed-issues] -->
 <!-- ![badge-github-ubuntu-vnc-xfce-releases][badge-github-ubuntu-vnc-xfce-releases] -->
 <!-- ![badge-github-ubuntu-vnc-xfce-commits][badge-github-ubuntu-vnc-xfce-commits] -->
@@ -97,8 +99,8 @@
 ![badge-github-argbash-docker-release][badge-github-argbash-docker-release]
 ![badge-github-argbash-docker-release-date][badge-github-argbash-docker-release-date]
 ![badge-github-argbash-docker-last-commit][badge-github-argbash-docker-last-commit]
-<!-- ![badge-github-argbash-docker-stars][badge-github-argbash-docker-stars] -->
-<!-- ![badge-github-argbash-docker-forks][badge-github-argbash-docker-forks] -->
+![badge-github-argbash-docker-stars][badge-github-argbash-docker-stars]
+![badge-github-argbash-docker-forks][badge-github-argbash-docker-forks]
 <!-- ![badge-github-argbash-docker-closed-issues][badge-github-argbash-docker-closed-issues] -->
 <!-- ![badge-github-argbash-docker-releases][badge-github-argbash-docker-releases] -->
 <!-- ![badge-github-argbash-docker-commits][badge-github-argbash-docker-commits] -->
@@ -185,8 +187,8 @@
 [badge-github-ubuntu-vnc-xfce-g3-release]: https://badgen.net/github/release/accetto/ubuntu-vnc-xfce-g3?icon=github&label=release
 [badge-github-ubuntu-vnc-xfce-g3-release-date]: https://img.shields.io/github/release-date/accetto/ubuntu-vnc-xfce-g3?logo=github
 [badge-github-ubuntu-vnc-xfce-g3-last-commit]: https://badgen.net/github/last-commit/accetto/ubuntu-vnc-xfce-g3?icon=github&label=last%20commit
-<!-- [badge-github-ubuntu-vnc-xfce-g3-stars]: https://badgen.net/github/stars/accetto/ubuntu-vnc-xfce-g3?icon=github&label=stars -->
-<!-- [badge-github-ubuntu-vnc-xfce-g3-forks]: https://badgen.net/github/forks/accetto/ubuntu-vnc-xfce-g3?icon=github&label=forks -->
+[badge-github-ubuntu-vnc-xfce-g3-stars]: https://badgen.net/github/stars/accetto/ubuntu-vnc-xfce-g3?icon=github&label=stars
+[badge-github-ubuntu-vnc-xfce-g3-forks]: https://badgen.net/github/forks/accetto/ubuntu-vnc-xfce-g3?icon=github&label=forks
 <!-- [badge-github-ubuntu-vnc-xfce-g3-releases]: https://badgen.net/github/releases/accetto/ubuntu-vnc-xfce-g3?icon=github&label=releases -->
 <!-- [badge-github-ubuntu-vnc-xfce-g3-commits]: https://badgen.net/github/commits/accetto/ubuntu-vnc-xfce-g3?icon=github&label=commits -->
 <!-- [badge-github-ubuntu-vnc-xfce-g3-closed-issues]: https://badgen.net/github/closed-issues/accetto/ubuntu-vnc-xfce-g3?icon=github&label=closed%20issues -->
@@ -199,8 +201,8 @@
 [badge-github-debian-vnc-xfce-g3-release]: https://badgen.net/github/release/accetto/debian-vnc-xfce-g3?icon=github&label=release
 [badge-github-debian-vnc-xfce-g3-release-date]: https://img.shields.io/github/release-date/accetto/debian-vnc-xfce-g3?logo=github
 [badge-github-debian-vnc-xfce-g3-last-commit]: https://badgen.net/github/last-commit/accetto/debian-vnc-xfce-g3?icon=github&label=last%20commit
-<!-- [badge-github-debian-vnc-xfce-g3-stars]: https://badgen.net/github/stars/accetto/debian-vnc-xfce-g3?icon=github&label=stars -->
-<!-- [badge-github-debian-vnc-xfce-g3-forks]: https://badgen.net/github/forks/accetto/debian-vnc-xfce-g3?icon=github&label=forks -->
+[badge-github-debian-vnc-xfce-g3-stars]: https://badgen.net/github/stars/accetto/debian-vnc-xfce-g3?icon=github&label=stars
+[badge-github-debian-vnc-xfce-g3-forks]: https://badgen.net/github/forks/accetto/debian-vnc-xfce-g3?icon=github&label=forks
 <!-- [badge-github-debian-vnc-xfce-g3-releases]: https://badgen.net/github/releases/accetto/debian-vnc-xfce-g3?icon=github&label=releases -->
 <!-- [badge-github-debian-vnc-xfce-g3-commits]: https://badgen.net/github/commits/accetto/debian-vnc-xfce-g3?icon=github&label=commits -->
 <!-- [badge-github-debian-vnc-xfce-g3-closed-issues]: https://badgen.net/github/closed-issues/accetto/debian-vnc-xfce-g3?icon=github&label=closed%20issues -->
@@ -211,8 +213,8 @@
 [badge-github-headless-coding-g3-release]: https://badgen.net/github/release/accetto/headless-coding-g3?icon=github&label=release
 [badge-github-headless-coding-g3-release-date]: https://img.shields.io/github/release-date/accetto/headless-coding-g3?logo=github
 [badge-github-headless-coding-g3-last-commit]: https://badgen.net/github/last-commit/accetto/headless-coding-g3?icon=github&label=last%20commit
-<!-- [badge-github-headless-coding-g3-stars]: https://badgen.net/github/stars/accetto/headless-coding-g3?icon=github&label=stars -->
-<!-- [badge-github-headless-coding-g3-forks]: https://badgen.net/github/forks/accetto/headless-coding-g3?icon=github&label=forks -->
+[badge-github-headless-coding-g3-stars]: https://badgen.net/github/stars/accetto/headless-coding-g3?icon=github&label=stars
+[badge-github-headless-coding-g3-forks]: https://badgen.net/github/forks/accetto/headless-coding-g3?icon=github&label=forks
 <!-- [badge-github-headless-coding-g3-releases]: https://badgen.net/github/releases/accetto/headless-coding-g3?icon=github&label=releases -->
 <!-- [badge-github-headless-coding-g3-commits]: https://badgen.net/github/commits/accetto/headless-coding-g3?icon=github&label=commits -->
 <!-- [badge-github-headless-coding-g3-closed-issues]: https://badgen.net/github/closed-issues/accetto/headless-coding-g3?icon=github&label=closed%20issues -->
@@ -225,8 +227,8 @@
 [badge-github-headless-drawing-g3-release]: https://badgen.net/github/release/accetto/headless-drawing-g3?icon=github&label=release
 [badge-github-headless-drawing-g3-release-date]: https://img.shields.io/github/release-date/accetto/headless-drawing-g3?logo=github
 [badge-github-headless-drawing-g3-last-commit]: https://badgen.net/github/last-commit/accetto/headless-drawing-g3?icon=github&label=last%20commit
-<!-- [badge-github-headless-drawing-g3-stars]: https://badgen.net/github/stars/accetto/headless-drawing-g3?icon=github&label=stars -->
-<!-- [badge-github-headless-drawing-g3-forks]: https://badgen.net/github/forks/accetto/headless-drawing-g3?icon=github&label=forks -->
+[badge-github-headless-drawing-g3-stars]: https://badgen.net/github/stars/accetto/headless-drawing-g3?icon=github&label=stars
+[badge-github-headless-drawing-g3-forks]: https://badgen.net/github/forks/accetto/headless-drawing-g3?icon=github&label=forks
 <!-- [badge-github-headless-drawing-g3-releases]: https://badgen.net/github/releases/accetto/headless-drawing-g3?icon=github&label=releases -->
 <!-- [badge-github-headless-drawing-g3-commits]: https://badgen.net/github/commits/accetto/headless-drawing-g3?icon=github&label=commits -->
 <!-- [badge-github-headless-drawing-g3-closed-issues]: https://badgen.net/github/closed-issues/accetto/headless-drawing-g3?icon=github&label=closed%20issues -->
@@ -238,6 +240,8 @@
 [badge-github-user-guide-g3-release]: https://badgen.net/github/release/accetto/user-guide-g3?icon=github&label=release
 [badge-github-user-guide-g3-release-date]: https://img.shields.io/github/release-date/accetto/user-guide-g3?logo=github
 [badge-github-user-guide-g3-last-commit]: https://badgen.net/github/last-commit/accetto/user-guide-g3?icon=github&label=last%20commit
+[badge-github-user-guide-g3-stars]: https://badgen.net/github/stars/accetto/user-guide-g3?icon=github&label=stars
+[badge-github-user-guide-g3-forks]: https://badgen.net/github/forks/accetto/user-guide-g3?icon=github&label=forks
 
 <!-- github badges xubuntu-vnc -->
 
@@ -245,8 +249,8 @@
 [badge-github-xubuntu-vnc-release]: https://badgen.net/github/release/accetto/xubuntu-vnc?icon=github&label=release
 [badge-github-xubuntu-vnc-release-date]: https://img.shields.io/github/release-date/accetto/xubuntu-vnc?logo=github
 [badge-github-xubuntu-vnc-last-commit]: https://badgen.net/github/last-commit/accetto/xubuntu-vnc?icon=github&label=last%20commit
-<!-- [badge-github-xubuntu-vnc-stars]: https://badgen.net/github/stars/accetto/xubuntu-vnc?icon=github&label=stars -->
-<!-- [badge-github-xubuntu-vnc-forks]: https://badgen.net/github/forks/accetto/xubuntu-vnc?icon=github&label=forks -->
+[badge-github-xubuntu-vnc-stars]: https://badgen.net/github/stars/accetto/xubuntu-vnc?icon=github&label=stars
+[badge-github-xubuntu-vnc-forks]: https://badgen.net/github/forks/accetto/xubuntu-vnc?icon=github&label=forks
 <!-- [badge-github-xubuntu-vnc-releases]: https://badgen.net/github/releases/accetto/xubuntu-vnc?icon=github&label=releases -->
 <!-- [badge-github-xubuntu-vnc-commits]: https://badgen.net/github/commits/accetto/xubuntu-vnc?icon=github&label=commits -->
 <!-- [badge-github-xubuntu-vnc-closed-issues]: https://badgen.net/github/closed-issues/accetto/xubuntu-vnc?icon=github&label=closed%20issues -->
@@ -257,8 +261,8 @@
 [badge-github-xubuntu-vnc-novnc-release]: https://badgen.net/github/release/accetto/xubuntu-vnc-novnc?icon=github&label=release
 [badge-github-xubuntu-vnc-novnc-release-date]: https://img.shields.io/github/release-date/accetto/xubuntu-vnc-novnc?logo=github
 [badge-github-xubuntu-vnc-novnc-last-commit]: https://badgen.net/github/last-commit/accetto/xubuntu-vnc-novnc?icon=github&label=last%20commit
-<!-- [badge-github-xubuntu-vnc-novnc-stars]: https://badgen.net/github/stars/accetto/xubuntu-vnc-novnc?icon=github&label=stars -->
-<!-- [badge-github-xubuntu-vnc-novnc-forks]: https://badgen.net/github/forks/accetto/xubuntu-vnc-novnc?icon=github&label=forks -->
+[badge-github-xubuntu-vnc-novnc-stars]: https://badgen.net/github/stars/accetto/xubuntu-vnc-novnc?icon=github&label=stars
+[badge-github-xubuntu-vnc-novnc-forks]: https://badgen.net/github/forks/accetto/xubuntu-vnc-novnc?icon=github&label=forks
 <!-- [badge-github-xubuntu-vnc-novnc-releases]: https://badgen.net/github/releases/accetto/xubuntu-vnc-novnc?icon=github&label=releases -->
 <!-- [badge-github-xubuntu-vnc-novnc-commits]: https://badgen.net/github/commits/accetto/xubuntu-vnc-novnc?icon=github&label=commits -->
 <!-- [badge-github-xubuntu-vnc-novnc-closed-issues]: https://badgen.net/github/closed-issues/accetto/xubuntu-vnc-novnc?icon=github&label=closed%20issues -->
@@ -269,8 +273,8 @@
 [badge-github-ubuntu-vnc-xfce-release]: https://badgen.net/github/release/accetto/ubuntu-vnc-xfce?icon=github&label=release
 [badge-github-ubuntu-vnc-xfce-release-date]: https://img.shields.io/github/release-date/accetto/ubuntu-vnc-xfce?logo=github
 [badge-github-ubuntu-vnc-xfce-last-commit]: https://badgen.net/github/last-commit/accetto/ubuntu-vnc-xfce?icon=github&label=last%20commit
-<!-- [badge-github-ubuntu-vnc-xfce-stars]: https://badgen.net/github/stars/accetto/ubuntu-vnc-xfce?icon=github&label=stars -->
-<!-- [badge-github-ubuntu-vnc-xfce-forks]: https://badgen.net/github/forks/accetto/ubuntu-vnc-xfce?icon=github&label=forks -->
+[badge-github-ubuntu-vnc-xfce-stars]: https://badgen.net/github/stars/accetto/ubuntu-vnc-xfce?icon=github&label=stars
+[badge-github-ubuntu-vnc-xfce-forks]: https://badgen.net/github/forks/accetto/ubuntu-vnc-xfce?icon=github&label=forks
 <!-- [badge-github-ubuntu-vnc-xfce-releases]: https://badgen.net/github/releases/accetto/ubuntu-vnc-xfce?icon=github&label=releases -->
 <!-- [badge-github-ubuntu-vnc-xfce-commits]: https://badgen.net/github/commits/accetto/ubuntu-vnc-xfce?icon=github&label=commits -->
 <!-- [badge-github-ubuntu-vnc-xfce-closed-issues]: https://badgen.net/github/closed-issues/accetto/ubuntu-vnc-xfce?icon=github&label=closed%20issues -->
@@ -317,8 +321,8 @@
 [badge-github-argbash-docker-release]: https://badgen.net/github/release/accetto/argbash-docker?icon=github&label=release
 [badge-github-argbash-docker-release-date]: https://img.shields.io/github/release-date/accetto/argbash-docker?logo=github
 [badge-github-argbash-docker-last-commit]: https://badgen.net/github/last-commit/accetto/argbash-docker?icon=github&label=last%20commit
-<!-- [badge-github-argbash-docker-stars]: https://badgen.net/github/stars/accetto/argbash-docker?icon=github&label=stars -->
-<!-- [badge-github-argbash-docker-forks]: https://badgen.net/github/forks/accetto/argbash-docker?icon=github&label=forks -->
+[badge-github-argbash-docker-stars]: https://badgen.net/github/stars/accetto/argbash-docker?icon=github&label=stars
+[badge-github-argbash-docker-forks]: https://badgen.net/github/forks/accetto/argbash-docker?icon=github&label=forks
 <!-- [badge-github-argbash-docker-releases]: https://badgen.net/github/releases/accetto/argbash-docker?icon=github&label=releases -->
 <!-- [badge-github-argbash-docker-commits]: https://badgen.net/github/commits/accetto/argbash-docker?icon=github&label=commits -->
 <!-- [badge-github-argbash-docker-closed-issues]: https://badgen.net/github/closed-issues/accetto/argbash-docker?icon=github&label=closed%20issues -->
