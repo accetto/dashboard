@@ -8,6 +8,8 @@ Dashboard for personal developer use.
 
 ***
 
+[user-guide-g3][user-guide-g3]
+
 [ubuntu-vnc-xcfe-g3][ubuntu-vnc-xcfe-g3]
 
 <!-- ![badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3][badge-github-workflow-dockerhub-autobuild-ubuntu-vnc-xcfe-g3] -->
@@ -37,6 +39,8 @@ Dashboard for personal developer use.
 [Docker Hub Dashboard]: https://github.com/accetto/dashboard/blob/master/dockerhub-dashboard.md
 
 <!-- ubuntu-vnc-xfce-g3 -->
+
+[user-guide-g3]: https://accetto.github.io/user-guide-g3/
 
 [ubuntu-vnc-xcfe-g3]: https://github.com/accetto/ubuntu-vnc-xfce-g3
 
