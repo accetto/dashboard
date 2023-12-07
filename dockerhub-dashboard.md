@@ -22,6 +22,7 @@
 | [debian-vnc-xfce-chromium-g3](https://hub.docker.com/r/accetto/debian-vnc-xfce-chromium-g3)         | ![badge-docker-debian-vnc-xfce-chromium-g3-pulls][badge-docker-debian-vnc-xfce-chromium-g3-pulls]         | ![badge-docker-debian-vnc-xfce-chromium-g3-stars][badge-docker-debian-vnc-xfce-chromium-g3-stars]         |
 | [debian-vnc-xfce-firefox-g3](https://hub.docker.com/r/accetto/debian-vnc-xfce-firefox-g3)           | ![badge-docker-debian-vnc-xfce-firefox-g3-pulls][badge-docker-debian-vnc-xfce-firefox-g3-pulls]           | ![badge-docker-debian-vnc-xfce-firefox-g3-stars][badge-docker-debian-vnc-xfce-firefox-g3-stars]           |
 | [debian-vnc-xfce-nodejs-g3](https://hub.docker.com/r/accetto/debian-vnc-xfce-nodejs-g3)             | ![badge-docker-debian-vnc-xfce-nodejs-g3-pulls][badge-docker-debian-vnc-xfce-nodejs-g3-pulls]             | ![badge-docker-debian-vnc-xfce-nodejs-g3-stars][badge-docker-debian-vnc-xfce-nodejs-g3-stars]             |
+| [debian-vnc-xfce-nvm-g3](https://hub.docker.com/r/accetto/debian-vnc-xfce-nvm-g3)                   | ![badge-docker-debian-vnc-xfce-nvm-g3-pulls][badge-docker-debian-vnc-xfce-nvm-g3-pulls]                   | ![badge-docker-debian-vnc-xfce-nvm-g3-stars][badge-docker-debian-vnc-xfce-nvm-g3-stars]                   |
 | [debian-vnc-xfce-postman-g3](https://hub.docker.com/r/accetto/debian-vnc-xfce-postman-g3)           | ![badge-docker-debian-vnc-xfce-postman-g3-pulls][badge-docker-debian-vnc-xfce-postman-g3-pulls]           | ![badge-docker-debian-vnc-xfce-postman-g3-stars][badge-docker-debian-vnc-xfce-postman-g3-stars]           |
 | [debian-vnc-xfce-python-g3](https://hub.docker.com/r/accetto/debian-vnc-xfce-python-g3)             | ![badge-docker-debian-vnc-xfce-python-g3-pulls][badge-docker-debian-vnc-xfce-python-g3-pulls]             | ![badge-docker-debian-vnc-xfce-python-g3-stars][badge-docker-debian-vnc-xfce-python-g3-stars]             |
 | [debian-vnc-xfce-vscode-g3](https://hub.docker.com/r/accetto/debian-vnc-xfce-vscode-g3)             | ![badge-docker-debian-vnc-xfce-vscode-g3-pulls][badge-docker-debian-vnc-xfce-vscode-g3-pulls]             | ![badge-docker-debian-vnc-xfce-vscode-g3-stars][badge-docker-debian-vnc-xfce-vscode-g3-stars]             |
@@ -123,6 +124,12 @@
 [badge-docker-debian-vnc-xfce-nodejs-g3-pulls]: https://badgen.net/docker/pulls/accetto/debian-vnc-xfce-nodejs-g3?icon=docker&label=pulls
 
 [badge-docker-debian-vnc-xfce-nodejs-g3-stars]: https://badgen.net/docker/stars/accetto/debian-vnc-xfce-nodejs-g3?icon=docker&label=stars
+
+<!-- docker badges debian-vnc-xfce-nvm-g3 -->
+
+[badge-docker-debian-vnc-xfce-nvm-g3-pulls]: https://badgen.net/docker/pulls/accetto/debian-vnc-xfce-nvm-g3?icon=docker&label=pulls
+
+[badge-docker-debian-vnc-xfce-nvm-g3-stars]: https://badgen.net/docker/stars/accetto/debian-vnc-xfce-nvm-g3?icon=docker&label=stars
 
 <!-- docker badges debian-vnc-xfce-postman-g3 -->
 
