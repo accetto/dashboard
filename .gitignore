@@ -12,12 +12,6 @@
 # recommended files on 'https://github.com/github/gitignore'
 
 .vscode
-.debugger*
-.developer*
-.secrets*
 *.log
-avanti*
-debug*
 scrap*
 secret*
-TODO*
