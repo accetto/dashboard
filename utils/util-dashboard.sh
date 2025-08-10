@@ -334,6 +334,7 @@ generate_dockerhub_dashboard() {
         "ubuntu-vnc-xfce-inkscape-g3"
         "ubuntu-vnc-xfce-opengl-g3"
         "debian-vnc-xfce-g3"
+        "debian-vnc-xfce-brave-g3"
         "debian-vnc-xfce-chromium-g3"
         "debian-vnc-xfce-firefox-g3"
         "debian-vnc-xfce-nodejs-g3"

@@ -4,6 +4,10 @@
 
 ***
 
+### Release 25.08
+
+Added Debian images with [Brave Browser][brave].
+
 ### Release 25.05
 
 Project's `CHANGELOG` file has been added and the `README` file updated.
@@ -40,3 +44,5 @@ The first release.
 ***
 
 [service-shields-io]: https://shields.io/
+
+[brave]: https://brave.com/
