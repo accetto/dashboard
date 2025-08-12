@@ -4,9 +4,13 @@
 
 ***
 
+### Release 25.08.1
+
+Added `Ubuntu` images with [Brave Browser][brave].
+
 ### Release 25.08
 
-Added Debian images with [Brave Browser][brave].
+Added `Debian` images with [Brave Browser][brave].
 
 ### Release 25.05
 

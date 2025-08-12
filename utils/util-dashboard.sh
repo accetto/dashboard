@@ -325,6 +325,7 @@ spit_dockerhub_repo_badges() {
 generate_dockerhub_dashboard() {
     local -a active_repos_g3=(
         "ubuntu-vnc-xfce-g3"
+        "ubuntu-vnc-xfce-brave-g3"
         "ubuntu-vnc-xfce-chromium-g3"
         "ubuntu-vnc-xfce-firefox-g3"
         "ubuntu-vnc-xfce-blender-g3"
